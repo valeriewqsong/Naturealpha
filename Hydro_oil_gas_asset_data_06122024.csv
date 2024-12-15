@@ -1,0 +1,1474 @@
+,name,asset_ownership_name,latitude,longitude,asset_type,country
+0,Al Kamil power plant,Al Kamil Power Company SAOG,22.3903,59.0695,oil_and_gas_plant,Oman
+1,Lake Hubbard power station,Luminant Generation Co LLC,32.8358,-96.5458,oil_and_gas_plant,United States
+2,Huadian Yizheng Thermal power station,Jiangsu Huadian Yizheng Thermal Power Co Ltd,32.287236,119.054979,oil_and_gas_plant,China
+3,Sichuan Renshou Thermal power station,China Huaneng Group Corp Sichuan Branch,29.994502,104.13231,oil_and_gas_plant,China
+4,Chentangzhuang power station,Tianjin Chentang Thermoelectricity Co Ltd,38.96213,117.185749,oil_and_gas_plant,China
+5,Hobbs generating station,Lea Power Partners LLC,32.728333,-103.3094,oil_and_gas_plant,United States
+6,Cayuga Generating Station,Duke Energy Indiana LLC,39.9242,-87.4244,oil_and_gas_plant,United States
+7,Pueblo Airport generating station,Black Hills Colorado Electric LLC,38.320833,-104.5264,oil_and_gas_plant,United States
+8,Piedra Buena power station,Pampa Energia SA,-38.7875,-62.2537,oil_and_gas_plant,Argentina
+9,Karbala Gas power plant,Ministry of Electricity (Iraq),32.437631,44.126918,oil_and_gas_plant,Iraq
+10,Nanjing Liuhe District Yangba power station,Yangzi Petrochemical-BASF Co Ltd,32.246702,118.805386,oil_and_gas_plant,China
+11,RS cogeneration power station,Entergy Corp,30.221,-93.2992,oil_and_gas_plant,United States
+12,Ashkelon Delek power station,Delek Israel,31.6350712,34.5244567,oil_and_gas_plant,Israel
+13,Cotesa power station,Compañía Española de Petróleos SA,28.4539912047784,-16.2780833799966,oil_and_gas_plant,Spain
+14,Cristobal Colón power station,Endesa SA,37.2156,-6.943,oil_and_gas_plant,Spain
+15,Alor Gajah (Melaka) power station,Edra Energy Sdn Bhd,2.382211,102.2115611,oil_and_gas_plant,Malaysia
+16,Thilawa (Sumitomo) power station,Mitsui & Co Ltd,16.658502,96.262303,oil_and_gas_plant,
+17,Gulf BP power station,Gulf MP Co Ltd,14.25334,100.602789,oil_and_gas_plant,Thailand
+18,Thai Oil Company Sriracha Refinery power station,Thai Oil PCL,13.1103842,100.9049167,oil_and_gas_plant,Thailand
+19,Ressurreição power station,CH4 Energia Ltda,-8.397778,-35.028833,oil_and_gas_plant,Brazil
+20,Smart Energy Center (Cheongju) power station,SK Hynix,36.6492698,127.4221799,oil_and_gas_plant,
+21,Upper Sankhuwa Khola hydroelectric plant,Happy Energy PVT LTD,27.5431,87.0451,hydro_power_low,Nepal
+22,Mahon power station,Endesa SA,39.89686,4.25858,oil_and_gas_plant,Spain
+23,Phinda power plant,Phinda Power Producers,-28.765199,32.011978,oil_and_gas_plant,South Africa
+24,Huarun Dongguan Dalang Gas power station,China Resources Power Investment Co Ltd,22.940080757444,113.944773624091,oil_and_gas_plant,China
+25,Faridpur peaking power station,Bangladesh Power Development Board (BPDB),23.6191852193157,89.7733019242934,oil_and_gas_plant,Bangladesh
+26,W.S. Lee Steam Station,Duke Energy Carolinas LLC,34.6022,-82.435,oil_and_gas_plant,United States
+27,Uranquinty power station,Origin Energy Ltd,-35.1793948,147.2128392,oil_and_gas_plant,Australia
+28,C4GT power station,C4GT LLC,37.447097,-77.1673,oil_and_gas_plant,United States
+29,Camaçari Muricy II power plant,New Fortress Energy Inc,-12.6561,-38.2999,oil_and_gas_plant,Brazil
+30,Lloyds Energy power station,Mitsubishi Corp,13.774431,121.024546,oil_and_gas_plant,Philippines
+31,Liberty Electric power plant,Liberty Electric Power LLC,39.8614,-75.3358,oil_and_gas_plant,United States
+32,Victor J Daniel Jr power station,Mississippi Power Co,30.5322,-88.5553,oil_and_gas_plant,United States
+33,NAEA Ocean Peaking power station,NAEA Ocean Peaking Power LLC,40.0633,-74.1672,oil_and_gas_plant,United States
+34,Tierra Noble power station,Naturgy Energy Group SA,-37.043118,-72.405662,oil_and_gas_plant,Chile
+35,Tanglawan power station,Phoenix Petroleum Philippines Inc,13.773723,121.024505,oil_and_gas_plant,Philippines
+36,Sendai Thermal power plant,Kyushu Electric Power Co Inc,31.8574268362645,130.200813347096,oil_and_gas_plant,Japan
+37,Riyadh Cement Company power plant,Riyadh Cement Co,24.31129,46.29621,oil_and_gas_plant,Saudi Arabia
+38,Camden Plant Holdings power station,Camden Plant Holdings LLC,39.9175,-75.1192,oil_and_gas_plant,United States
+39,Mary power station,Turkmenenergo,37.55034442,61.84121491,oil_and_gas_plant,Turkmenistan
+40,Datang Guangzhou Conghua Gas power station,Datang International Power Generation Co Ltd Guangdong Branch,23.614969,113.454288,oil_and_gas_plant,China
+41,Bangla Trac Power Unit-1 power station,ACORN Infrastructure Services Ltd,23.5465484238832,90.7778975698308,oil_and_gas_plant,Bangladesh
+42,Euzébio Rocha power station,Petróleo Brasileiro SA,-23.875531,-46.431825,oil_and_gas_plant,Brazil
+43,Gourikwa power station,Eskom Holdings SOC Ltd,-34.166755,21.960715,oil_and_gas_plant,South Africa
+44,Ceuta power station,Endesa SA,35.9026,-5.28949,oil_and_gas_plant,Spain
+45,Agios Georgios power station,Public Power Corporation SA,37.95429,23.61023,oil_and_gas_plant,Greece
+46,Cairo North power plant,Cairo Electricity Production Co,30.1027,31.2684,oil_and_gas_plant,Egypt
+47,Hai Lang power station,Korea Gas Corp,16.994429,107.115361,oil_and_gas_plant,Viet Nam
+48,Eden Yuturi power station,Petroamazonas EP,-0.528791,-76.126258,oil_and_gas_plant,Ecuador
+49,Oseong power station,Pyeongtaek Energy Service Co,37.0254,127.0027,oil_and_gas_plant,
+50,ExxonMobil Baton Rouge Turbine Generator power station,ExxonMobil Corp,30.489722,-91.18722,oil_and_gas_plant,United States
+51,Complejo Petroquímico Cangrejera power station,Pemex-Transformación Industrial,18.092895,-94.361309,oil_and_gas_plant,Mexico
+52,Buzurgan 2 power station,Ministry of Electricity (Iraq),32.12513,47.40004,oil_and_gas_plant,Iraq
+53,Boca Chica power station,Karpowership Dominican Republic SAS,18.456375,-69.611345,oil_and_gas_plant,Dominican Republic
+54,Arthur Kill generating station,Arthur Kill Power LLC,40.591564,-74.20004,oil_and_gas_plant,United States
+55,Tanajib Cogeneration and Desalination power plant,Marubeni Corp,27.770296,48.874835,oil_and_gas_plant,Saudi Arabia
+56,Neerabup power station,Shell PLC,-31.6713,115.8021,oil_and_gas_plant,Australia
+57,Sol Coqueria Tubarão power station,ArcelorMittal Brasil SA,-20.252743,-40.230285,oil_and_gas_plant,Brazil
+58,Orange Grove peaking facility,Orange Grove Energy LP,33.3594,-117.1114,oil_and_gas_plant,United States
+59,Mari power station,Powerenergy Cyprus Ltd,34.729446,33.28253,oil_and_gas_plant,Cyprus
+60,Pernambuco III power station,Termelétrica Pernambuco III SA,-7.864036,-35.018734,oil_and_gas_plant,Brazil
+61,St Francis energy facility,Associated Electric Cooperative Inc,36.5852,-90.1779,oil_and_gas_plant,United States
+62,Abuja power station,Siemens Energy AG,8.939696,7.076826,oil_and_gas_plant,Nigeria
+63,Presidente Kennedy power station,Geradora de Energia do Espírito Santo SA,-21.203633,-41.01258,oil_and_gas_plant,Brazil
+64,Beijing Zhengdong Electronic Power Group South power station,Beijing Zhengdong Electronic Power Group Co Ltd,39.97191,116.494381,oil_and_gas_plant,China
+65,Kwinana Refinery cogeneration power station,Mitsui & Co Ltd,-32.2226,115.7662,oil_and_gas_plant,Australia
+66,Dongguan Jintian Paper Gas Thermal power station,Dongguan Jintian Paper Co Ltd,23.055556,113.682843,oil_and_gas_plant,China
+67,Negishi Refinery power station,ENEOS Corp,35.4151827246748,139.637548804238,oil_and_gas_plant,Japan
+68,Indian River (FL) power station,Florida Municipal Power Agency,28.493232,-80.78012,oil_and_gas_plant,United States
+69,Ghar Khola hydroelectric plant,Myagdi Hydropower LTD,28.4674,83.6528,hydro_power_low,Nepal
+70,Hutchinson energy center,Evergy Kansas Central Inc,38.0906,-97.87472,oil_and_gas_plant,United States
+71,Hog Bayou energy center,Mobile Energy LLC,30.7478,-88.0575,oil_and_gas_plant,United States
+72,U-Thai power station,Gulf JP Co Ltd,14.331653,100.69591,oil_and_gas_plant,Thailand
+73,Jones power station,Southwestern Public Service Co,33.5239,-101.7392,oil_and_gas_plant,United States
+74,Umm Al Nar West and East Integrated Water and power plant,Engie Energy France,24.434803591809,54.487617015839,oil_and_gas_plant,
+75,Mtwara power station,Tanzania Electric Supply Company LTD (TANESCO),-10.190272,39.992006,oil_and_gas_plant,"Tanzania, United Republic of"
+76,Colombo Port Power Station,Ceylon Electricity Board,6.95380079270666,79.8558577973257,oil_and_gas_plant,
+77,Al-Mansoura power station,Public Electricity Corp,12.852749,44.975476,oil_and_gas_plant,Yemen
+78,Son My I power station,Kyushu Electric Power Co Inc,10.65008,107.68464,oil_and_gas_plant,Viet Nam
+79,Diesel Tamaya (Suta) power station,ENGIE Energía Chile SA,-22.163687,-70.087346,oil_and_gas_plant,Chile
+80,Najaf power station,Ministry of Electricity (Iraq),31.976629,44.381865,oil_and_gas_plant,Iraq
+81,Shuweihat S1 power plant,Shuweihat CMS International Power Company PJSC,24.165085,52.569724,oil_and_gas_plant,United Arab Emirates
+82,Yeongheung power station,Korea South-East Power Co Ltd,37.236939918507,126.43609285355,oil_and_gas_plant,
+83,CPIH Guigang Distributed Gas power station,CLP (Guigang) Integrated Energy Co Ltd,23.04153,109.633091,oil_and_gas_plant,China
+84,Suez power plant,East Delta Electricity Production Co,29.966834,32.549807,oil_and_gas_plant,Egypt
+85,Guangdong Shajiao power complex,Guangdong Energy Group Co Ltd,22.7491928,113.6719429,oil_and_gas_plant,China
+86,Jhanor Gandhar Combined Cycle power plant,NTPC Ltd,21.8242,73.1136,oil_and_gas_plant,India
+87,Maputo power station,Electricidade de Moçambique EP,-25.9393,32.530062,oil_and_gas_plant,Mozambique
+88,Power Island power station,INEOS USA LLC,29.2293,-95.1952,oil_and_gas_plant,United States
+89,Vemagiri Combined Cycle power plant,GMR Vemagiri Power Generation Ltd,16.9238,81.8141,oil_and_gas_plant,India
+90,Nova Piratininga power station,Petróleo Brasileiro SA,-23.698889,-46.678611,oil_and_gas_plant,Brazil
+91,NAEA Lakewood power station,Lakewood Cogeneration LP,40.0613,-74.1686,oil_and_gas_plant,United States
+92,Jeddah PP3 power plant,Saudi Electricity Co,21.433094,39.203892,oil_and_gas_plant,Saudi Arabia
+93,Tunghsiao power station,Taiwan Power Co,24.490013,120.673505,oil_and_gas_plant,"Taiwan, Province of China"
+94,Plains End II power station,Plains End Operating Services LLC,39.8586,-105.2256,oil_and_gas_plant,United States
+95,Dresden energy facility,Appalachian Power Co,40.0928,-82.0276,oil_and_gas_plant,United States
+96,Center Hybrid power station,Southern California Edison Co,33.9296,-118.1046,oil_and_gas_plant,United States
+97,Castellón power station,Iberdrola Generacion SA,39.9592,-0.001,oil_and_gas_plant,Spain
+98,San Carlos Power Station,Reliance Energy Development Inc,10.4826992,123.413725,oil_and_gas_plant,Philippines
+99,Khani Khola 1 hydroelectric plant,Green Life Hydropower LTD,27.8189,86.3501,hydro_power_low,Nepal
+100,Hermosillo Fuerza y Energía power station,Naturgy México SA de CV,29.093937,-111.096518,oil_and_gas_plant,Mexico
+101,Cosumnes power station,Sacramento Financing Authority,38.338475,-121.124,oil_and_gas_plant,United States
+102,Taranto Refinery power station,Enipower SpA,40.4992571358732,17.1971173117019,oil_and_gas_plant,Italy
+103,Kwinana Refinery cogeneration power station,RATCH-Australia Corporation Pty Ltd,-32.2226,115.7662,oil_and_gas_plant,Australia
+104,Tilghemt I power plant,Société Algérienne de Production de l'Electricité SpA,33.131708,3.345785,oil_and_gas_plant,Algeria
+105,GECOL power plant 1,General Electricity Company of Libya,27.221319,14.889865,oil_and_gas_plant,Libya
+106,Karpowership (Ghana) Osman Khan power station,Karpowership,4.93844,-1.696663,oil_and_gas_plant,
+107,Guangxi Huaneng Guilin power station,Huaneng Guilin Gas Distributed Energy Co Ltd,25.21,110.18,oil_and_gas_plant,China
+108,Yulin Health Industrial Park Natural Gas Distributed Energy Station,China Gas Holdings Ltd,22.657725,110.056727,oil_and_gas_plant,China
+109,Shuaiba SWCC power plant,Saline Water Conversion Corp Corp,20.67998,39.52478,oil_and_gas_plant,Saudi Arabia
+110,Dongguan Zhongdian New Energy Thermal power station,Dongguan Zhongdian New Energy Thermal Power Co Ltd,22.975775,113.828442,oil_and_gas_plant,China
+111,South Harper power station,Evergy Missouri West,38.6803,-94.4824,oil_and_gas_plant,United States
+112,Jiugang Group Captive Gas power station,Jiuquan Iron and Steel (Group) Co Ltd,39.848225,98.228878,oil_and_gas_plant,China
+113,Refinería Miguel Hidalgo power station,Pemex-Transformación Industrial,20.049659,-99.286576,oil_and_gas_plant,Mexico
+114,Recka power station,Sociedad Minera Cerro Verde S.A.A.,-6.878065,-79.792538,oil_and_gas_plant,Peru
+115,Juan Manuel Valdez power station,Corporación Eléctrica Nacional (Venezuela) SA,10.562024,-62.310042,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+116,Ulsan GPS power station,SK Gas Co Ltd,35.501181,129.334363,oil_and_gas_plant,
+117,Botekoshi 5 hydroelectric plant,Kalika Energy,27.789,85.8838,hydro_power_low,Nepal
+118,Puertollano (Repsol) power station,Repsol SA,38.6707,-4.052,oil_and_gas_plant,Spain
+119,Putrajaya power station,Tenaga Nasional Bhd,2.9659,101.6847,oil_and_gas_plant,Malaysia
+120,Glow SPP 1 power station,B.Grimm Power PCL,12.695363,101.1288449,oil_and_gas_plant,Thailand
+121,NuCe Sud power station,ERG SpA,37.12451,15.20911,oil_and_gas_plant,Italy
+122,Laem Chabang power station,B.Grimm Power PCL,13.0913,100.8943,oil_and_gas_plant,Thailand
+123,Guodian Binhai power station,Tianjin Binhai Electric Power Co Ltd,38.985802,117.654559,oil_and_gas_plant,China
+124,Guernsey power station,Guernsey Power Station LLC,39.9364,-81.5354,oil_and_gas_plant,United States
+125,İç Anadolu power station,Gama Enerji AŞ,39.7575,33.448,oil_and_gas_plant,
+126,Banda Gas-to-Power Project,New Fortress Energy Inc,18.047845,-16.009382,oil_and_gas_plant,Mauritania
+127,Ilo power station,ENGIE Energía Perú SA,-17.77597,-71.18928,oil_and_gas_plant,Peru
+128,Western Area Power Generation Project,CECA SL Generation Ltd,8.475932,-13.191042,oil_and_gas_plant,Sierra Leone
+129,Fujian Luoyuan Minguang Iron & Steel Co./Ltd. Gas Power Project,Fujian Luoyuan Minguang Iron & Steel Co Ltd,26.488285,119.654938,oil_and_gas_plant,
+130,Siam Pure Rice Combined Cycle power station,Siam Pure Rice Co Ltd,14.849077784828,100.444793481253,oil_and_gas_plant,Thailand
+131,Morgantown Generating Plant,Lanyard Power Holdings LLC,38.3592,-76.9767,oil_and_gas_plant,United States
+132,Yokkaichi thermal power station,JERA Co Inc,34.973965,136.645932,oil_and_gas_plant,Japan
+133,Brindisi Sud power station,Enel SpA,40.56364,18.03221,oil_and_gas_plant,Italy
+134,Tuaspring Desalinisation power station,YTL PowerSeraya Pte,1.3014501,103.6214915,oil_and_gas_plant,Singapore
+135,Seydi CHP power station,Turkmenenergo,39.4294,62.855,oil_and_gas_plant,Turkmenistan
+136,Southern Grid Hainan Qinglan Gas power station,Hainan Power Grid Co Ltd,19.568647,110.764405,oil_and_gas_plant,China
+137,Huaneng Haikou power plant,Gener 2,19.961827,110.035953,oil_and_gas_plant,China
+138,Higashi-Ohgishima thermal power station,JERA Co Inc,35.494918,139.745627,oil_and_gas_plant,
+139,Granadilla power station,Endesa SA,28.12218,-16.573048,oil_and_gas_plant,Spain
+140,Shinincheon power station,Korea Southern Power Co Ltd,37.508,126.6159,oil_and_gas_plant,
+141,H. Wilson Sundt Generating Station,Tucson Electric Power Co,32.16,-110.9047,oil_and_gas_plant,United States
+142,Altamira Dynasol cogeneration power station,Iberdrola Generación México,22.447376,-97.970472,oil_and_gas_plant,Mexico
+143,SEGS IX power station,Terra-Gen Operating Co-Solar,35.033,-117.338,oil_and_gas_plant,United States
+144,Jurong Power Station,YTL PowerSeraya Pte,1.31,103.71,oil_and_gas_plant,Singapore
+145,Jiangmen Taishan New Industrial Zone Distributed Gas power station,Jiangmen Hengjian Power Co,22.38038,112.824086,oil_and_gas_plant,China
+146,Ataka power plant,East Delta Electricity Production Co,29.931321,32.464138,oil_and_gas_plant,Egypt
+147,Guru Gobind Singh Refinery power station,HPCL-Mittal Energy Ltd,29.9244211610978,74.9589023838886,oil_and_gas_plant,India
+148,Xavantes Aruanã power station,Aruanã Energia SA,-16.581667,-49.2575,oil_and_gas_plant,Brazil
+149,Ace Embilipitiya power station,Aitken Spence Energy (ACE),6.28502864688007,80.8493079781749,oil_and_gas_plant,Sri Lanka
+150,West Deptford Energy Station,West Deptford Energy LLC,39.8414,-75.2214,oil_and_gas_plant,United States
+151,Rowan power station,Southern Power Co,35.7314,-80.6019,oil_and_gas_plant,United States
+152,Chihuahua II (El Encino) power station,Comisión Federal de Electricidad EPE,28.445546,-105.920237,oil_and_gas_plant,Mexico
+153,Sidi Krir power plant,West Delta Electricity Production Co,31.044361,29.660395,oil_and_gas_plant,Egypt
+154,Eumseong power station,Korea East-West Power Co Ltd,36.9418153701013,127.654621080554,oil_and_gas_plant,
+155,Al Dammam power plant,Saudi Electricity Co,26.38,50.093,oil_and_gas_plant,Saudi Arabia
+156,Gulf Tasit 1 & 2 power station,Gulf MP Co Ltd,13.0173851,101.1927332,oil_and_gas_plant,Thailand
+157,Be'er Tuvia power station,Israel Power Management,31.7216313,34.7529206,oil_and_gas_plant,Israel
+158,Sichuan Suining Anju Natural Gas power station,China Huadian Group Corp,30.352381,105.449382,oil_and_gas_plant,China
+159,Guangopolo II power station,Corporación Nacional de Electricidad EP,-0.270816,-78.451134,oil_and_gas_plant,Ecuador
+160,Birdsboro power station,Birdsboro Power LLC,40.268522,-75.79967,oil_and_gas_plant,United States
+161,Pueblo Airport generating station,Black Hills Colorado IPP LLC,38.320833,-104.5264,oil_and_gas_plant,United States
+162,Pinjar power station,Electricity Retail and Generation Corp,-31.5591,115.8208,oil_and_gas_plant,Australia
+163,Demoss Petrie power station,Tucson Electric Power Co,32.252273,-110.9921,oil_and_gas_plant,United States
+164,Chonburi Ng Project power station,Gulf SRC Co Ltd,13.049968,101.193335,oil_and_gas_plant,Thailand
+165,Sohar Aluminum power plant,Sohar Aluminium,24.467949,56.637836,oil_and_gas_plant,Oman
+166,Black Mountain generating station,UNS Electric Inc,35.0361,-114.1594,oil_and_gas_plant,United States
+167,Wayne County power station,Duke Energy Progress LLC,35.375789,-78.09805,oil_and_gas_plant,United States
+168,Barrow Island LNG power station,Shell PLC,-20.77708,115.461583,oil_and_gas_plant,Australia
+169,Tanagawa Daini power station,Kansai Electric Power Co,34.3216791874615,135.126054405657,oil_and_gas_plant,Japan
+170,Broadwing Clean energy complex,Warwick Capital Partners LLP,39.8496585753772,-88.9510466624394,oil_and_gas_plant,United States
+171,Uthmaniyah cogeneration Gas power plant,Tihama Power Generation Co Ltd,25.19,49.307,oil_and_gas_plant,Saudi Arabia
+172,Komsilga power plant,Société Nationale d'électricité du Burkina,12.2511448866235,-1.57571731964883,oil_and_gas_plant,Burkina Faso
+173,Zhongshan Nanlang Gas power station,Shennan Power (Zhongshan) Power Co Ltd,22.55203,113.5694,oil_and_gas_plant,China
+174,Yates Steam Generating Plant,Georgia Power Co,33.4622,-84.8986,oil_and_gas_plant,United States
+175,Khormala power station,Kurdistan's Ministry of Electricity,35.970182,43.774447,oil_and_gas_plant,Iraq
+176,Shariati power station,Taban Energy Co,36.2369,59.7324,oil_and_gas_plant,"Iran, Islamic Republic of"
+177,Guillermo Brown power station,AES Argentina Generación SA,-38.686484,-62.418512,oil_and_gas_plant,Argentina
+178,Dhi Qar power station,Ministry of Electricity (Iraq),31.1042,46.3625,oil_and_gas_plant,Iraq
+179,Norte Catarinense power station,Nebras Power QPSC,-26.024006,-48.802594,oil_and_gas_plant,Brazil
+180,GNA IV power station,BP PLC,-21.843072,-41.013217,oil_and_gas_plant,Brazil
+181,Hawthorn Station,Evergy Metro Inc,39.1306,-94.4778,oil_and_gas_plant,United States
+182,DeBary power station,Duke Energy Florida LLC,28.903863,-81.332329,oil_and_gas_plant,United States
+183,Boutlélis power station,Société Algérienne de Production de l'Electricité SpA,35.5658,-0.9386,oil_and_gas_plant,Algeria
+184,McGrath Peaker power station,Southern California Edison Co,34.205556,-119.2469,oil_and_gas_plant,United States
+185,Governador Leonel Brizola power station,Petróleo Brasileiro SA,-22.7145,-43.2541,oil_and_gas_plant,Brazil
+186,Thessaloniki power station,Elpedison BV,40.6879,22.88402,oil_and_gas_plant,Greece
+187,Jizan IGCC power plant,Air Products and Chemicals Inc,17.338929,42.386941,oil_and_gas_plant,Saudi Arabia
+188,Manikganj (Northern) power station,Dhaka Northern Power Generations Ltd,23.8175261672536,90.1295348937227,oil_and_gas_plant,Bangladesh
+189,Samalkot Combined Cycle power plant,Reliance Infrastructure Ltd,17.0853,82.1283,oil_and_gas_plant,India
+190,Freeport Energy power station,Olin Blue Cube Operations,28.991289,-95.407481,oil_and_gas_plant,United States
+191,University of Florida power station,Duke Energy Florida LLC,29.640278,-82.34861,oil_and_gas_plant,United States
+192,Shin Nakasode power station,Shin Nakasode Power Station Co Ltd,35.454305,139.981988,oil_and_gas_plant,Japan
+193,Wansley power station,Oglethorpe Power Corp,33.41342,-85.032329,oil_and_gas_plant,United States
+194,Valmont Station,Public Service Company of Colorado,40.0205,-105.2009,oil_and_gas_plant,United States
+195,Chapainawabganj power station,Bangladesh Power Development Board (BPDB),24.6558531217335,88.40418814909,oil_and_gas_plant,Bangladesh
+196,Meghnaghat-II power station,General Electric Co,23.608172,90.595154,oil_and_gas_plant,Bangladesh
+197,Bridge power station,Early Power Ltd,5.677739,0.019369,oil_and_gas_plant,Ghana
+198,Howard Down power station,City of Vineland - (NJ),39.4889,-75.0347,oil_and_gas_plant,United States
+199,Matheu III power station,Araucaria Energy,-34.397804,-58.837117,oil_and_gas_plant,Argentina
+200,Guadalupe generating station,Calpine Corp,29.6244,-98.1419,oil_and_gas_plant,United States
+201,Yudean Shenzhen Qianwan Gas power station,Shenzhen Guangqian Electric Power Co Ltd,22.50785,113.849683,oil_and_gas_plant,
+202,Greenwood (MO) power station,Evergy Missouri West,38.8615,-94.2982,oil_and_gas_plant,United States
+203,South Bangkok International Airport (SBIA) power station,District Cooling System and Power Plant Co Ltd,13.6940905,100.7327317,oil_and_gas_plant,Thailand
+204,Korinthos power station,Korinthos Power,37.9208,23.0665,oil_and_gas_plant,Greece
+205,CCC Riviera Maya (Valladolid) power station,Comisión Federal de Electricidad EPE,20.697929,-88.269832,oil_and_gas_plant,Mexico
+206,Parish Generating Station,NRG Texas Power LLC,29.4828,-95.6311,oil_and_gas_plant,United States
+207,Arizona power station,Inkia Energy,13.960274,-90.798959,oil_and_gas_plant,Guatemala
+208,McClain energy facility,Oklahoma Gas and Electric Co,35.29774,-97.58985,oil_and_gas_plant,United States
+209,Barcazas Josefa Rufina y Margarita power station,Corporación Eléctrica Nacional (Venezuela) SA,10.587631,-67.079538,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+210,Sayedpur power station,Bangladesh Power Development Board (BPDB),25.7826520267831,88.8971184666137,oil_and_gas_plant,Bangladesh
+211,Turkey Point power station,Florida Power & Light Co,25.4356,-80.3308,oil_and_gas_plant,United States
+212,Sendai Thermal power plant,Kyushu Electric Power Co Inc,31.8574268362645,130.200813347096,oil_and_gas_plant,Japan
+213,Akita Thermal power station,Tohoku Electric Power Co Inc,39.784715154992,140.048887723844,oil_and_gas_plant,Japan
+214,Dawei power station,Andaman Power and Utility Co (APU),14.0824221348568,98.1942551573394,oil_and_gas_plant,
+215,Upper Modi A hydroelectric plant,Hydroelectricity Investment and Development CO LTD (HIDCL),28.3675,83.8074,hydro_power_low,Nepal
+216,Kaligandaki Upper hydroelectric plant,Nepal Electricity Authority (NEA),28.4047,83.5933,hydro_power_low,Nepal
+217,La Rosita power station,Saavi Energia,32.598221,-115.629682,oil_and_gas_plant,Mexico
+218,Shenzhen Energy East power station,Shenzhen Energy Group Co Ltd,22.575253,114.442407,oil_and_gas_plant,China
+219,Budum Khola hydroelectric plant,Arun Valley Hydropower Development CO PVT LTD,27.4865,86.8479,hydro_power_low,Nepal
+220,Boalkhali power station,Rural Power Co Ltd,22.3761491375768,91.9143245917465,oil_and_gas_plant,Bangladesh
+221,Kudu power station,Namibia Power Corp Ltd,-28.450438,16.246312,oil_and_gas_plant,Namibia
+222,Haverhill North Cogeneration Facility,SunCoke Energy Inc,38.596657,-82.828642,oil_and_gas_plant,United States
+223,Yorktown power station,Virginia Electric and Power Co,37.2153639,-76.4621611,oil_and_gas_plant,United States
+224,Lomé Contour power station,ContourGlobal PLC,6.15684049813913,1.30217619562043,oil_and_gas_plant,Togo
+225,Gulf KP1 & 2 power station,Gulf JP Co Ltd,14.3874658,100.9091859,oil_and_gas_plant,Thailand
+226,Spring Garden power station,Barbados Light & Power Co Ltd,13.125792,-59.632191,oil_and_gas_plant,Barbados
+227,Marsh Landing generating station,Clearway Energy Inc,38.016944,-121.765,oil_and_gas_plant,United States
+228,Lobito power station,Korea Southern Power Co Ltd,-12.366489,13.532781,oil_and_gas_plant,Angola
+229,Noblesville power station,Duke Energy Indiana LLC,40.0969,-85.9714,oil_and_gas_plant,United States
+230,GNA III power station,BP PLC,-21.841185,-41.023657,oil_and_gas_plant,Brazil
+231,Newport power station,EnergyAustralia Ecogen Pty Ltd,-37.8415,144.89472,oil_and_gas_plant,Australia
+232,Kaltim power station,PT PLN (Persero),-0.384362,117.051473,oil_and_gas_plant,Indonesia
+233,Ako power station,Kansai Electric Power Co,34.7419696793436,134.379573075446,oil_and_gas_plant,Japan
+234,Harbor power station,Los Angeles Department of Water & Power,33.7706,-118.2656,oil_and_gas_plant,United States
+235,Huadian Qingdao Gas Thermal power station,Huadian Qingdao Power Generation Co Ltd,36.112336,120.331687,oil_and_gas_plant,China
+236,Yichang Zhongji Thermal power station,Yichang Yiling Zhongji Thermal Power Co Ltd,30.7689273800628,111.319205819177,oil_and_gas_plant,China
+237,Lincoln Land energy center,Lincoln Land Energy Center LLC,39.5788,-89.57984,oil_and_gas_plant,United States
+238,GNA V power station,SPIC Brasil SA,-21.842444,-41.026973,oil_and_gas_plant,Brazil
+239,Reliance Meghnaghat power station,Reliance Power Ltd & JERA JV,23.607983,90.596336,oil_and_gas_plant,Bangladesh
+240,Himeji Daini power station,Kansai Electric Power Co,34.772186,134.68891,oil_and_gas_plant,Japan
+241,Edwaleni power station,Eswatini Electricity Co,-26.579142618378,31.3073751139475,oil_and_gas_plant,
+242,Port Stanvac power station,Snowy Hydro Ltd,-35.11009,138.49089,oil_and_gas_plant,Australia
+243,Big Sandy Peaker Plant,Middle River Power II LLC,38.3441,-82.5938,oil_and_gas_plant,United States
+244,Summit Gazipur I power station,Ace Alliance Power Ltd,23.9945796215848,90.3377962831106,oil_and_gas_plant,Bangladesh
+245,San Francisco power station,Quezon Power (Philippines) Ltd Co,14.21921,121.74899,oil_and_gas_plant,Philippines
+246,Barrow Island LNG power station,ExxonMobil Corp,-20.77708,115.461583,oil_and_gas_plant,Australia
+247,Umm Al Nar West and East Integrated Water and power plant,Arabian Power Company PJSC,24.434803591809,54.487617015839,oil_and_gas_plant,China
+248,Mymensingh power station,Rural Power Co Ltd,24.7615776,90.4165151,oil_and_gas_plant,Bangladesh
+249,Cardones power station,Inkia Energy,-27.487975,-70.3854,oil_and_gas_plant,Chile
+250,Alcúdia power station,Endesa SA,39.810751,3.091411,oil_and_gas_plant,Spain
+251,GNA IV power station,BP PLC,-21.843072,-41.013217,oil_and_gas_plant,Brazil
+252,Chuzhou Natural Gas Peaking power station,Huaihe Energy Holding Group Co Ltd,32.6909154223709,118.878849164276,oil_and_gas_plant,China
+253,Ahala power station,ENEO Cameroon,3.79888371267517,11.5054690253642,oil_and_gas_plant,Cameroon
+254,Suwannee River power station,Duke Energy Florida LLC,30.376389,-83.180556,oil_and_gas_plant,United States
+255,Al-Zara power plant,Public Establishment of Electricity Generation,34.959189,36.661889,oil_and_gas_plant,Syrian Arab Republic
+256,Saguaro (AZ) power station,Arizona Public Service Co,32.5517,-111.3,oil_and_gas_plant,United States
+257,Mistri Khola hydroelectric plant,Mountain Energy Nepal LTD,28.5057,83.6592,hydro_power_low,Nepal
+258,Hines energy complex,Duke Energy Florida LLC,27.788215,-81.86998,oil_and_gas_plant,United States
+259,Bayonne energy center,Bayonne Energy Center LLC,40.652834,-74.09155,oil_and_gas_plant,United States
+260,Ezeiza power station,Generación Mediterránea SA,-34.903289,-58.616194,oil_and_gas_plant,Argentina
+261,Metcalf energy center,Calpine Corp - Metcalf Energy Center,37.2207,-121.7457,oil_and_gas_plant,United States
+262,Ivanpah 1 power station,Solar Partners II LLC,35.533056,-115.4525,oil_and_gas_plant,United States
+263,Iligan Diesel power plant,Mapalad Power Corp,8.32766341110225,124.255275086277,oil_and_gas_plant,Philippines
+264,Juan de Dios Bátiz Paredes power station,Comisión Federal de Electricidad EPE,25.607934,-109.051507,oil_and_gas_plant,Mexico
+265,Madkyu Khola hydroelectric plant,Silkes Hydropower PVT LTD,28.3681,84.1356,hydro_power_low,Nepal
+266,P L Bartow power station,Duke Energy Florida LLC,27.859535,-82.60176,oil_and_gas_plant,United States
+267,Aboitiz Luzon LNG power station,JERA Co Inc,13.98526,121.74016,oil_and_gas_plant,Philippines
+268,Jaci power station,Global Participações em Energia SA,-22.280748,-41.736603,oil_and_gas_plant,Brazil
+269,Shandong Iron & Steel Group Yongfeng Lingang Corp. Lingang Advanced Special Steel Industry Base power station,Shandong Iron & Steel Group Yongfeng Lingang Corp,35.137845,119.074391,oil_and_gas_plant,China
+270,Gasen Suape power station,Gasen Energia SA,-8.401128,-35.016435,oil_and_gas_plant,Brazil
+271,Liping Khola hydroelectric plant,Him River Power PVT LTD,27.9718,85.9578,hydro_power_low,Nepal
+272,Summit Khulna (KPCL) power station,Khulna Power Co Ltd,22.8665665130362,89.538835040702,oil_and_gas_plant,Bangladesh
+273,Nouadhibou Thermal power plant,Mauritanian Electricity Co,20.8954,-17.0572,oil_and_gas_plant,Mauritania
+274,Van CCGE power station,Aksa Enerji Uretim AŞ,38.573745,43.311898,oil_and_gas_plant,
+275,Lieberman power station,Southwestern Electric Power Co,32.7047,-93.9597,oil_and_gas_plant,United States
+276,Monarchak Combined Cycle power plant,North Eastern Electric Power Corporation Limited (NEEPCO),23.438,91.274,oil_and_gas_plant,India
+277,Kuo Kuang power station,CTCI Corp,25.0427518,121.3421355,oil_and_gas_plant,"Taiwan, Province of China"
+278,Acacia power station,Eskom Holdings SOC Ltd,-33.8831147783268,18.5358336331541,oil_and_gas_plant,South Africa
+279,Al-Dur Power and Water Station,Mitsui & Co Ltd,25.969278,50.608007,oil_and_gas_plant,Bahrain
+280,EGCO cogeneration (Rayong) power station,J-POWER Holdings (Thailand),12.794063,101.199347,oil_and_gas_plant,Thailand
+281,Kelvin power station,Harith General Partners,-26.1157758,28.194019,oil_and_gas_plant,South Africa
+282,Jiangsu Rudong Combined Cycle Gas Turbine power station,PetroChina Co Ltd,32.450155,121.303627,oil_and_gas_plant,
+283,Yerevan 2 power station,ArmPower CSJC,40.112969,44.497236,oil_and_gas_plant,Armenia
+284,Darlington County power station,Duke Energy Progress - (NC),34.4185,-80.1657,oil_and_gas_plant,United States
+285,Topaz Generating power station,Topaz Generating LLC,29.426389,-94.97667,oil_and_gas_plant,United States
+286,Yucca power station,Arizona Public Service Co,32.7214,-114.7106,oil_and_gas_plant,United States
+287,Rifle generating station,Tri-State Generation and Transmission Association Inc,39.5173,-107.7299,oil_and_gas_plant,United States
+288,T H Wharton power station,NRG Texas Power LLC,29.9417,-95.5306,oil_and_gas_plant,United States
+289,Basrah Steel Plant power station,State Company for Iron and Steel (Iraq),30.2331,47.7687,oil_and_gas_plant,Iraq
+290,Fadhili cogeneration power plant,Fadhili Plant Cogeneration Co,27.11227,49.071352,oil_and_gas_plant,Saudi Arabia
+291,Le Port Est power station,EDF,-20.9305,55.3268,oil_and_gas_plant,France
+292,Karappur Combined Cycle power plant,LANCO Infratech Ltd,11.1217815,79.5279036,oil_and_gas_plant,India
+293,Cogeneradora Aconcagua power station,Empresa Nacional del Petróleo,-32.927668,-71.494412,oil_and_gas_plant,Chile
+294,Deir El Zor power plant,Public Establishment of Electricity Generation,35.338836,40.131667,oil_and_gas_plant,Syrian Arab Republic
+295,C7 power station,Electricite du Cambodge,11.5367694867623,105.082924557774,oil_and_gas_plant,Cambodia
+296,Oando Kwale power station,Nigerian Agip Oil Co Ltd JV JV,5.709692,6.575917,oil_and_gas_plant,Nigeria
+297,Prai (TNB) power station,TNB Prai Sdn Bhd,5.3744,100.3746,oil_and_gas_plant,
+298,Haima West power station,Petroleum Development Oman LLC,19.954732,56.267661,oil_and_gas_plant,Oman
+299,ShanXi TongCai Industry and Trade Co./Ltd. power project,ShanXi TongCai Industry and Trade Co Ltd,35.700262,111.431077,oil_and_gas_plant,China
+300,Edge Moor Power Plant,Calpine Mid-Atlantic Generation LLC,39.73886,-75.50384,oil_and_gas_plant,
+301,Duqm Independent Water and power plant,Gulf Energy Development PCL,19.530361,57.615728,oil_and_gas_plant,Oman
+302,Manuel Belgrano II power station,ENARSA - Energía Argentina SA,-34.184147,-59.006496,oil_and_gas_plant,Argentina
+303,Goulette power station,Tunisian Company of Electricity and Gas,36.8148,10.2897,oil_and_gas_plant,Tunisia
+304,Osprey energy center power plant,Duke Energy Florida LLC,28.0525,-81.8083,oil_and_gas_plant,United States
+305,Shin Kokura thermal power station,Kyushu Electric Power Co Inc,33.906636,130.859892,oil_and_gas_plant,Japan
+306,Linden cogeneration plant,GS EPS,40.6322,-74.2156,oil_and_gas_plant,United States
+307,Planta Pavana III power station,Luz y Fuerza de San Lorenzo SA de CV,13.404571,-87.326598,oil_and_gas_plant,Honduras
+308,Clear Springs energy center,Navasota Energy Generation Holdings,29.650556,-98.01222,oil_and_gas_plant,United States
+309,Plant No 2 Freeport,Village of Freeport - (NY),40.6447,-73.5683,oil_and_gas_plant,United States
+310,CCC San Luis Río Colorado power station,Comisión Federal de Electricidad EPE,32.420549,-114.714932,oil_and_gas_plant,Mexico
+311,Harry Allen power station,NV Energy,36.430554,-114.9024,oil_and_gas_plant,United States
+312,Cartagena power station,Enel Colombia SA ESP,10.3555,-75.5109,oil_and_gas_plant,Colombia
+313,Zhaoyuan Kairun Natural Gas Thermal power station,Zhaoyuan Kairun New Energy Co Ltd,37.37667,120.300802,oil_and_gas_plant,China
+314,Otay Mesa Generating Project,Otay Mesa Energy Center LLC,32.581481,-116.915,oil_and_gas_plant,United States
+315,Bicentenario power station,EPEC Generación,-31.66766,-63.8337,oil_and_gas_plant,Argentina
+316,Khorramshahr power station,Iran Power Plant Investment Co,30.482363,48.248559,oil_and_gas_plant,"Iran, Islamic Republic of"
+317,Futtsu thermal power station,JERA Co Inc,35.344714,139.834851,oil_and_gas_plant,
+318,Joetsu power station,Tohoku Electric Power Co Inc,37.206141,138.278456,oil_and_gas_plant,
+319,Spring Creek energy center,Evergy Kansas Central Inc,35.7422,-97.655,oil_and_gas_plant,United States
+320,PPS power plant No 1,Paducah Power System,37.03385,-88.61586,oil_and_gas_plant,United States
+321,Álabe Villarrubia power station,FMC Foret SA,39.98555,-3.36898,oil_and_gas_plant,Spain
+322,Huadian Xianghe Gas Energy Station,Huadian International Power Co Ltd Tianjin Branch,39.851084,116.980936,oil_and_gas_plant,China
+323,Hagit power station,Shikun & Binui Energy Ltd,32.6172,35.0431,oil_and_gas_plant,Israel
+324,Doswell energy center,Doswell LP,37.820805,-77.44625,oil_and_gas_plant,United States
+325,Dazhou Economic Zone Distributed Gas power station,Dazhou Zhineng Xiangying New Energy Technology Co Ltd,31.146122,107.474617,oil_and_gas_plant,China
+326,Acaray hydroelectric plant,Administración Nacional de Electricidad (ANDE),-25.4591,-54.6289,hydro_power_low,Paraguay
+327,Dedisa power station,Dedisa Peaking Power (RF) Pty Ltd,-33.743385,25.672819,oil_and_gas_plant,South Africa
+328,Greens Bayou power station,NRG Texas Power LLC,29.822201,-95.21943,oil_and_gas_plant,United States
+329,Timbúes power station,Pampa Energia SA,-32.577915,-60.790519,oil_and_gas_plant,Argentina
+330,Maya Khola hydroelectric plant,Khanikhola Hydropower CO LTD,27.2575,87.3065,hydro_power_low,Nepal
+331,Ratchaburi World cogeneration power station,Thai World Power Co Ltd,13.650941,99.846812,oil_and_gas_plant,Thailand
+332,Termonordeste power station,Centrais Elétricas da Paraíba SA,-7.210341,-34.920785,oil_and_gas_plant,Brazil
+333,Lower Hewa hydroelectric plant,Mountain Hydro Nepal LTD,27.1601,87.7564,hydro_power_low,Nepal
+334,Ikhuwa Khola hydroelectric plant,Nepal Electricity Authority (NEA),27.6001,87.3865,hydro_power_low,Nepal
+335,Henrietta Peaker Project,AltaGas Ltd,36.3491838188483,-119.784642615204,oil_and_gas_plant,United States
+336,Maku Combined-Cycle Power Plant,Maku Free Trade and Industrial Zone Authority,39.291428,44.466357,oil_and_gas_plant,"Iran, Islamic Republic of"
+337,Montana power station,El Paso Electric Co,31.823889,-106.2119,oil_and_gas_plant,United States
+338,CPV Shay energy center,Competitive Power Ventures Inc,39.29837,-80.69298,oil_and_gas_plant,United States
+339,Barker Inlet power station,AGL SA Generation Pty Ltd,-34.8068,138.5213,oil_and_gas_plant,Japan
+340,Valantharavai power station,Arkay Energy Rameswarm Ltd,9.327481,78.923268,oil_and_gas_plant,India
+341,Secunda power station,Sasol Synfuels,-26.5601173,29.1686447,oil_and_gas_plant,South Africa
+342,Ba Ria power station,EVNGENCO 3 Co,10.489019,107.166468,oil_and_gas_plant,Viet Nam
+343,Lloyds Energy power station,Lloyds Energy Ltd,13.774431,121.024546,oil_and_gas_plant,Philippines
+344,Samalayuca power station,Comisión Federal de Electricidad EPE,31.328896,-106.487073,oil_and_gas_plant,Mexico
+345,Baconton power plant,Tejas Power Generation LLC,31.3869,-84.08,oil_and_gas_plant,United States
+346,Beijing Energy Zhuhai Yuhai Gas Thermal power station,Zhuhai Yuhai Electric Power Co Ltd,22.093095,113.155431,oil_and_gas_plant,China
+347,SPIC Changshu Thermal power station,CLP Changshu Thermal Power Co Ltd,31.598177,120.84341,oil_and_gas_plant,China
+348,CML&P Generating Facility No. 2,City Of Coffeyville (Kansas),37.092977,-95.585154,oil_and_gas_plant,United States
+349,Intermountain power station,Intermountain Power Agency,39.509731,-112.5802,oil_and_gas_plant,United States
+350,Norte Fluminense 2 power station,EDF Norte Fluminense SA,-22.318949,-41.847789,oil_and_gas_plant,Brazil
+351,Termobarrancas II power station,Petróleos de Venezuela SA,8.698411,-70.209247,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+352,Qatif G-1 power plant,Saudi Arabian Oil Co,26.55,49.932,oil_and_gas_plant,Saudi Arabia
+353,Gezer power station,Israel Electric Corp Ltd,31.9153,34.9188,oil_and_gas_plant,Israel
+354,Ratchaburi (B.Grimm) power station,B.Grimm Power PCL,13.5472038,99.3380064,oil_and_gas_plant,Thailand
+355,Confidence Rangpur power station,Confidence Power Rangpur Ltd,25.6591246522767,89.2727376531815,oil_and_gas_plant,Bangladesh
+356,Khonj power station,Ghadir Khonj Power Cev Co,27.8827043,53.4284076,oil_and_gas_plant,"Iran, Islamic Republic of"
+357,Atimonan power station,Atimonan One Energy Inc,14.0569,121.86168,oil_and_gas_plant,Philippines
+358,Sendai Tohoku power station,Tohoku Electric Power Co Inc,38.317165,141.073482,oil_and_gas_plant,Japan
+359,Ohgishima power station,Ogishima Power Co Ltd,35.479099,139.702238,oil_and_gas_plant,
+360,Hainan Qionghai power station,Hainan Energy Storage Power Generation Co Ltd,19.35759,110.638461,oil_and_gas_plant,China
+361,Nasrieh Gas power plant,Public Establishment of Electricity Generation,33.801408,36.682851,oil_and_gas_plant,Syrian Arab Republic
+362,State Line Combined Cycle power station,Evergy Kansas Central Inc,37.0659,-94.614,oil_and_gas_plant,United States
+363,Bohol diesel power station,Conal Holdings Corp,9.90808024066235,124.57194668504,oil_and_gas_plant,
+364,Brush generation facility,AltaGas Blythe Operations Inc,40.2415,-103.631,oil_and_gas_plant,United States
+365,Assemini power station,Enel SpA,39.22777,8.99654,oil_and_gas_plant,Italy
+366,Thai Binh Combined Cycle power station,Truong Thanh Vietnam Group JSC,20.447935,106.356951,oil_and_gas_plant,Viet Nam
+367,Huaneng Nanshan Gas power station,Huaneng Hainan Power Inc,18.318066,109.159802,oil_and_gas_plant,China
+368,Castellon Refinery power station,BP PLC,39.9591277538194,-0.0016045273960717,oil_and_gas_plant,Spain
+369,Baowu Group Echeng Iron & Steel Co./Ltd. Gas Power Project,Baowu Group Echeng Iron & Steel Co Ltd,30.39798,114.855618,oil_and_gas_plant,China
+370,TermoAndes power station,AES Andes SA,-24.744,-65.0519,oil_and_gas_plant,Argentina
+371,Hibiki Natural Gas power plant,Saibu Gas Co Ltd,33.9305,130.778885,oil_and_gas_plant,Japan
+372,Yangzhou Hengrun Ocean Heavy Industry Co./Ltd. Gas Power Project,Yangzhou Hengrun Ocean Heavy Industry Co Ltd,32.244782,119.620862,oil_and_gas_plant,China
+373,Hamlet Generating Facility,North Carolina Electric Membership Corp,34.842311,-79.73609,oil_and_gas_plant,United States
+374,Jinshin power station,Formosa Plastics Corp,25.05668,121.283712,oil_and_gas_plant,"Taiwan, Province of China"
+375,Bazian Combine Cycle power plant,Taurus Power Generation,30.2331,47.7687,oil_and_gas_plant,Iraq
+376,Riverside Energy Resource Center (CA),City of Riverside - (CA),33.9636,-117.4528,oil_and_gas_plant,United States
+377,Kumargaon power station,Energyprima Ltd,24.9175173176415,91.8251462213766,oil_and_gas_plant,Bangladesh
+378,McKee Run power station,City of Dover - (DE),39.176222,-75.54663,oil_and_gas_plant,United States
+379,Luiz Carlos Prestes power station,Petróleo Brasileiro SA,-20.7468,-51.6619,oil_and_gas_plant,Brazil
+380,Bluffview power station,City of Farmington - (NM),36.716628,-108.2153,oil_and_gas_plant,United States
+381,Jiangsu Province Binxin Steel Group Co./Ltd. power project,Jiangsu Province Binxin Steel Group Co Ltd,35.094998,119.279503,oil_and_gas_plant,China
+382,P L Bartow power station,Duke Energy Florida LLC,27.859535,-82.601759,oil_and_gas_plant,United States
+383,Hanford Energy Park Emergency Peaker Project,AltaGas San Joaquin Energy Inc,36.3315688718025,-119.646187814904,oil_and_gas_plant,United States
+384,Boryeong power station,Korea Midland Power Co Ltd,36.4008531,126.4908314,oil_and_gas_plant,
+385,Tapal Energy Power Project power plant,Tapal Energy Limited (Pvt),25.000136209218,66.9077119378254,oil_and_gas_plant,Pakistan
+386,Nejapa Power power station,Inkia Energy,13.779224,-89.200902,oil_and_gas_plant,El Salvador
+387,Faridabad Combined Cycle power plant,NTPC Ltd,28.3465198,77.3590025,oil_and_gas_plant,India
+388,Yarnima power station,BHP Group Ltd,-23.3422001515229,119.710075533647,oil_and_gas_plant,Australia
+389,Jubail cogeneration power plant,National Power Co,27.025656,49.520108,oil_and_gas_plant,Saudi Arabia
+390,Payra LNG power station,BP PLC,21.999205,90.305597,oil_and_gas_plant,Bangladesh
+391,Ca Na power station,Gulf Energy Development PCL,11.3355911,108.8890601,oil_and_gas_plant,
+392,Guohua Yuyao Gas power station,Gener 2,30.066544,121.103506,oil_and_gas_plant,China
+393,Gulf NRV power station,Gulf MP Co Ltd,14.928799,102.177099,oil_and_gas_plant,Thailand
+394,Datang Foshan Gas power station,Datang Foshan Thermal Power Co Ltd,22.907718,112.813399,oil_and_gas_plant,China
+395,ESC Harrison County power station,Caithness Energy LLC,39.287039,-80.32287,oil_and_gas_plant,United States
+396,ELCOSA power station,Illinova Generating Co,15.85625,-87.954805,oil_and_gas_plant,Honduras
+397,Blue Spruce energy center,Public Service Company of Colorado,39.747875,-104.6814,oil_and_gas_plant,United States
+398,Torbat-Haidarieh Combined-Cycle power station,Rashed Torbat-e-Heydarieh Electrical Co,35.370016,59.304785,oil_and_gas_plant,"Iran, Islamic Republic of"
+399,Urquhart Station,Dominion Energy South Carolina Inc,33.435,-81.9111,oil_and_gas_plant,United States
+400,Parque Pilar thermal power plant,Pampa Energia SA,-34.403245,-58.966139,oil_and_gas_plant,Argentina
+401,Guoxin Yancheng Gas Thermal power station,Jiangsu Guoxin Yancheng Power Plant Co Ltd,33.401444,120.116541,oil_and_gas_plant,China
+402,GNA V power station,BP PLC,-21.842444,-41.026973,oil_and_gas_plant,Brazil
+403,Pecém Energia II power station,New Fortress Energy Inc,-12.604368,-38.297994,oil_and_gas_plant,Brazil
+404,Khoy power station,Parto Shams Taban,38.405888,44.910776,oil_and_gas_plant,"Iran, Islamic Republic of"
+405,Western Mindanao Power Corporation (WMPC) Zamboanga power station,The Western Mindanao Power Corp,7.08178846689315,122.214202105512,oil_and_gas_plant,Philippines
+406,Attarat power plant,Attarat Power Co,31.28562,36.52137,oil_and_gas_plant,Jordan
+407,Fujairah F3 Integrated Water and power plant,F3 Holding Co,25.301931,56.370353,oil_and_gas_plant,United Arab Emirates
+408,Trombay Combined Cycle power plant,Tata Power Co Ltd,19.0018,72.8967,oil_and_gas_plant,India
+409,Manikganj power station,Manikganj Power Generations Ltd,23.7937292125201,90.2376048610835,oil_and_gas_plant,Bangladesh
+410,Inland Empire energy center,Inland Empire Energy Center LLC,33.738839,-117.1704,oil_and_gas_plant,United States
+411,Son Reus power station,Endesa SA,39.64832,2.68081,oil_and_gas_plant,Spain
+412,Trapani power station,EP Produzione SpA,37.87674,12.58922,oil_and_gas_plant,Italy
+413,Redding power station,City of Redding - (CA),40.507292,-122.4233,oil_and_gas_plant,United States
+414,Shenzhen Energy Shan County Gas Thermal power station,Shanxian Shenneng Thermal Power Co Ltd,34.757455,116.097243,oil_and_gas_plant,China
+415,Al-Zawra power plant,Federal Electricity and Water Authority (United Arab Emirates),25.447778,55.474722,oil_and_gas_plant,United Arab Emirates
+416,Palamara power station,Naturgy Energy Group SA,18.555709,-70.012859,oil_and_gas_plant,Dominican Republic
+417,Niigata thermal power station,Tohoku Electric Power Co Inc,37.9445143272448,139.081154253613,oil_and_gas_plant,Japan
+418,Ain Sokhna IWPP power station,Hyflux,29.6724876,32.3369649,oil_and_gas_plant,Egypt
+419,Mewa Khola hydroelectric plant,Union Hydropower LTD,27.5721,87.6019,hydro_power_low,Nepal
+420,Aboitiz LNG power station,Aboitiz Power Corp,10.2182029704902,123.724419527038,oil_and_gas_plant,Philippines
+421,Jum Khola hydroelectric plant,Sanima Hydropower,27.9588,86.2315,hydro_power_low,Nepal
+422,Hachinohe thermal power station,Tohoku Electric Power Co Inc,40.534482,141.506114,oil_and_gas_plant,Japan
+423,Ka Ga power station,B.Grimm Power PCL,10.703131,107.98916,oil_and_gas_plant,Viet Nam
+424,Shahid Kaveh power station,Khorasan Regional Electric Co,33.753313,59.147037,oil_and_gas_plant,"Iran, Islamic Republic of"
+425,Las Salinas power station,Endesa SA,28.50414,-13.84489,oil_and_gas_plant,Spain
+426,Arkay Energy Rameswarm power station,Arkay Energy Rameswarm Ltd,9.32850402364651,78.9232867835315,oil_and_gas_plant,India
+427,Shoubra El-Kheima power plant,Cairo Electricity Production Co,30.124257,31.237251,oil_and_gas_plant,Egypt
+428,Kano power station,NNPC Ltd,11.474463,8.408401,oil_and_gas_plant,Nigeria
+429,Hub power plant,Hub Power Co,24.9062465678473,66.694615070323,oil_and_gas_plant,Pakistan
+430,Holden power station,Associated Electric Cooperative Inc,38.7538,-93.9983,oil_and_gas_plant,United States
+431,Yahsihan power station,ACWA Power Co,39.8419786,33.4879879,oil_and_gas_plant,
+432,SPIC Dongguan Dongcheng Natural Gas power station,Gener 2,23.0286572778373,113.783406710449,oil_and_gas_plant,China
+433,Andimeshk-3 power station,Taraz Peyriz Civil and Construction Holding PJSC,32.494087,48.199286,oil_and_gas_plant,"Iran, Islamic Republic of"
+434,MEPI GT Facility,Illinois Power Generating Co,37.2175,-88.8661,oil_and_gas_plant,United States
+435,Myeik Township power station,Korea Management Policy Institute Group,12.4520544,98.5863088,oil_and_gas_plant,
+436,Bastami power station,Shahrood Power Generation Co,36.2966941049733,54.7871623337999,oil_and_gas_plant,"Iran, Islamic Republic of"
+437,Songkhla Chana power station,Korea Western Power Co Ltd,7.31236752218241,100.674046269261,oil_and_gas_plant,
+438,Kipevu II Tsavo power station,Tsavo Power Co Ltd,-4.0386733290528,39.6360989350256,oil_and_gas_plant,Kenya
+439,Barranco de Tirajana power station,Endesa SA,27.804006,-15.435877,oil_and_gas_plant,Spain
+440,Bhairab power station,Doreen Power Generations and Systems Ltd,24.0559850137668,90.9794310788713,oil_and_gas_plant,Bangladesh
+441,Datang Jintan Gas Thermal power station,Jiangsu Datang International Jintan Thermal Power Co Ltd,31.773087,119.608947,oil_and_gas_plant,China
+442,Egbema power station,Egbema Generation Co Ltd,5.565581,6.738307,oil_and_gas_plant,Nigeria
+443,Buzen power station,Kyushu Electric Power Co Inc,33.6260769381528,131.118712787113,oil_and_gas_plant,
+444,Daesan Refinery power station,Hyundai Oilbank Co Ltd,37.0044913126105,126.414957843634,oil_and_gas_plant,
+445,Jamshoro power station,Jamshoro Power Co Ltd,25.472717,68.265811,oil_and_gas_plant,Pakistan
+446,Layyah power station,Sharjah Electricity & Water Authority,25.3527,55.3705,oil_and_gas_plant,United Arab Emirates
+447,Upper Sanjen hydroelectric plant,Nepal Electricity Authority (NEA),28.2341,85.2871,hydro_power_low,Nepal
+448,Site gas power station,K-Electric,24.9049185108276,66.9759362494723,oil_and_gas_plant,Pakistan
+449,Crystal River Energy Complex,Duke Energy Florida LLC,28.9656,-82.6977,oil_and_gas_plant,United States
+450,Gwangyang steelworks power station,POSCO Holdings Inc,34.9318,127.726052,oil_and_gas_plant,
+451,Termovalle power station,EnfraGen LLC,3.564867,-76.453229,oil_and_gas_plant,Colombia
+452,Lumut GB3 power station,Tenaga Nasional Bhd,4.3923,100.5897,oil_and_gas_plant,Malaysia
+453,Tan Tan power plant,Office National de l'Electricité et de l'Eau Potable (Morocco),28.43905,-11.09704,oil_and_gas_plant,Morocco
+454,Coloane A power station,Companhia de Electricidade de Macau,22.13739,113.57995,oil_and_gas_plant,China
+455,Nghi Son Power Station,JERA Co Inc,19.4377926685485,105.768090902709,oil_and_gas_plant,Viet Nam
+456,Dhar Doum CCGT power station,Office National de l'Electricité et de l'Eau Potable (Morocco),35.056149,-6.199127,oil_and_gas_plant,Morocco
+457,Vung Ang power station,Korea Electric Power Corp,18.09792,106.38123,oil_and_gas_plant,Viet Nam
+458,Freestone energy center,Calpine Corp,31.8907,-96.1131,oil_and_gas_plant,United States
+459,Tobruk power station,General Electricity Company of Libya,32.059427,23.981335,oil_and_gas_plant,Libya
+460,CKI Lamma power station,HK Electric,22.2188909,114.1082183,oil_and_gas_plant,
+461,Jonesboro City Water & Light power station,City Water and Light (Arkansas),35.848561,-90.72538,oil_and_gas_plant,United States
+462,North Bangkok power station,Electricity Generating Authority of Thailand,13.8129,100.5092,oil_and_gas_plant,Thailand
+463,Termozulia power station,Corporación Eléctrica Nacional (Venezuela) SA,10.488508,-71.633057,oil_and_gas_plant,
+464,Ptolemaïda power station,Public Power Corporation SA,40.409707,21.787573,oil_and_gas_plant,Greece
+465,Sagunto power station,Naturgy Energy Group SA,39.64248,-0.23321,oil_and_gas_plant,Spain
+466,CPV Fairview energy center,CPV Fairview LLC,40.412,-78.855,oil_and_gas_plant,United States
+467,Abuja power station,General Electric Co,8.939696,7.076826,oil_and_gas_plant,Nigeria
+468,Wales power station,Guyana Power and Light Inc,6.702742,-58.20634,oil_and_gas_plant,Guyana
+469,Gobu power station,AzerEnerji JSC,40.4194535562781,49.6698075978715,oil_and_gas_plant,Azerbaijan
+470,Complejo Petroquímico Independencia power station,Pemex-Transformación Industrial,19.254771,-98.416127,oil_and_gas_plant,Mexico
+471,Jasper power station,Dominion Energy South Carolina Inc,32.3594,-81.1242,oil_and_gas_plant,United States
+472,Ezequiel Zamora power station,Corporación Eléctrica Nacional (Venezuela) SA,9.847154,-66.267297,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+473,Dahlberg power station,Southern Power Co,34.042267,-83.39772,oil_and_gas_plant,United States
+474,Western 102 power station,Nevada Gold Mines,39.5603,-119.5108,oil_and_gas_plant,United States
+475,Jack County power station,Brazos Electric Power Cooperative,33.101,-97.9574,oil_and_gas_plant,United States
+476,Beijing Energy Future City Gas and Thermal power station,Beijing Jingneng Future Gas Thermal Power Co Ltd,40.101992,116.468024,oil_and_gas_plant,China
+477,Aceca 3 power station,Iberdrola Generacion SA,39.9442,-3.8558,oil_and_gas_plant,Spain
+478,Osborne power station,Osborne Cogeneration Pty Ltd,-34.7981874,138.5071662,oil_and_gas_plant,Australia
+479,Hazira Gas Processing Complex Captive Power station,Oil and Natural Gas Corp Ltd,21.1610197663738,72.7393689755691,oil_and_gas_plant,India
+480,Kahe power station,Hawaiian Electric Co Inc,21.356395,-158.128853,oil_and_gas_plant,United States
+481,Munshiganj power station,Electricity Generation Company of Bangladesh (EGCB),23.5005413073629,90.4145601506111,oil_and_gas_plant,Bangladesh
+482,Genevapca power station,Petróleos de Venezuela SA,11.638502,-70.219035,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+483,Sagamu power station,Sagamu Independent Power Plant Ltd,6.8322,3.6319,oil_and_gas_plant,Nigeria
+484,Codrongianos power station,Enel SpA,40.65292,8.71249,oil_and_gas_plant,Italy
+485,Sikalbaha Peaking power station,Bangladesh Power Development Board (BPDB),22.3235132,91.8630775,oil_and_gas_plant,Bangladesh
+486,Clayville power station,City of Vineland - (NJ),39.424444,-75.02,oil_and_gas_plant,United States
+487,Union power station,Entergy Louisiana LLC,33.296146,-92.58936,oil_and_gas_plant,United States
+488,Larsen Memorial power station,City of Lakeland - (FL),28.0797,-81.9228,oil_and_gas_plant,United States
+489,Pipavav Combined Cycle power plant,GSPC Pipavav Power Co Ltd,20.8986,71.46925999999999,oil_and_gas_plant,India
+490,Nossa Senhora de Fatima power station,Eneva SA,-22.306806,-41.864583,oil_and_gas_plant,Brazil
+491,Northeast (MO) power station,Evergy Metro Inc,39.1228,-94.5606,oil_and_gas_plant,United States
+492,CMPC Cordillera power station,Bioenergías Forestales SA,-33.611191,-70.565298,oil_and_gas_plant,Chile
+493,Gimpo CHP power station,Korea Western Power Co Ltd,37.64981,126.638319,oil_and_gas_plant,
+494,Jiulong Paper Mill power station,Dongguan Nine Dragons Paper Industries Co Ltd,23.0349253501774,113.536559884734,oil_and_gas_plant,China
+495,Dokouheh power station,Thermal Power Plants Holding Co,32.521829,48.220956,oil_and_gas_plant,"Iran, Islamic Republic of"
+496,Hassi Messaoud Nord 2 power plant,Société Algérienne de Production de l'Electricité SpA,31.787607,6.051812,oil_and_gas_plant,Algeria
+497,Marulan power station,EnergyAustralia Marulan Pty Ltd,-34.607941,150.048464,oil_and_gas_plant,Australia
+498,Tangshan Heavy Plate Co./Ltd. power project,Tangshan Heavy Plate Co Ltd,39.267944,119.027402,oil_and_gas_plant,China
+499,Stryker Creek power station,Luminant Generation Co LLC,31.93985,-94.98983,oil_and_gas_plant,United States
+500,Qingyuan Shijiao Distributed Natural Gas power station,National Energy Group Guangdong Electric Power Co Ltd,23.5035598658541,112.966359505505,oil_and_gas_plant,China
+501,Anlima Energy power station,Anlima Energy Ltd,22.3290711482054,91.8741909545854,oil_and_gas_plant,Bangladesh
+502,Harbor cogeneration power station,Harbor Cogeneration Co,33.7771,-118.2303,oil_and_gas_plant,United States
+503,Huadian Xiangyang Fancheng Gas Thermal power station,Hubei Huadian Xiangyang Gas Turbine Thermal Power Co Ltd,32.07576,112.086038,oil_and_gas_plant,China
+504,Kilo-X Dit power plant,Dar Ikhtisas Technologies (Malaysia) Sdn Bhd,15.648236,32.563096,oil_and_gas_plant,Sudan
+505,Lake Road (MO) power station,Evergy Missouri West,39.7246,-94.8773,oil_and_gas_plant,United States
+506,Paddys Run power station,Louisville Gas & Electric Co,38.223592,-85.8417,oil_and_gas_plant,United States
+507,Mashhad power station,Ofogh Persian Gulf Energy Development Co,36.2713,59.6508,oil_and_gas_plant,"Iran, Islamic Republic of"
+508,Mejillones power station,ENGIE Energía Chile SA,-23.0892,-70.4103,oil_and_gas_plant,Chile
+509,Max Power (Thakayta) power station,Maxpower Thaketa Co Ltd,16.8116219701145,96.2266058724206,oil_and_gas_plant,
+510,Hibiki Natural Gas power plant,Kyushu Electric Power Co Inc,33.9305,130.778885,oil_and_gas_plant,Japan
+511,Degrad-des-Cannes power station,Electricité de France SA,4.86293,-52.27535,oil_and_gas_plant,
+512,Zhejiang Zheneng Zhenhai United Power Generation Co./Ltd. power station,Zhenlian Gas Power Generation (Jinhua) Co Ltd,29.070952,119.580374,oil_and_gas_plant,China
+513,Crockett cogeneration Project power station,ENI Crockett Ltd,38.0569,-122.2161,oil_and_gas_plant,United States
+514,Pangaon power station,APR Energy Bangladesh Ltd,23.6543649471327,90.4529182269047,oil_and_gas_plant,Bangladesh
+515,Anwara Jalalabad power station,Jalalabad Electric Power Co,22.2344808665827,91.858383373444,oil_and_gas_plant,Bangladesh
+516,Wakayama power station,Kansai Electric Power Co,34.77375,134.666972,oil_and_gas_plant,
+517,Brindisi Nord power station,Eni SpA,40.6293,18.0033,oil_and_gas_plant,Italy
+518,Aceca 4 power station,Naturgy Energy Group SA,39.9427,-3.8548,oil_and_gas_plant,Spain
+519,Wolf Hollow I power station,TotalEnergies SE,32.33422,-97.73169,oil_and_gas_plant,United States
+520,Geramar III power station,Geradora de Energia do Maranhão SA,-2.688654,-44.292005,oil_and_gas_plant,Brazil
+521,Three Gorges Energy Group Yingkou Gas Thermal power station,Three Gorges Group (Yingkou) Energy Investment Co Ltd,40.612409,122.34242,oil_and_gas_plant,China
+522,Lianyungang Xingxin Iron and Steel Co./Ltd. power project,Lianyungang Xingxin Iron and Steel Co Ltd,34.384406,119.786173,oil_and_gas_plant,China
+523,Nasiriyah New power station,Ministry of Electricity (Iraq),31.034427,46.202403,oil_and_gas_plant,Iraq
+524,Tanjung Kidurong power station,Sarawak Energy Bhd,3.2899,113.0942,oil_and_gas_plant,Malaysia
+525,CTG Tijuana power station,Comisión Federal de Electricidad EPE,32.370445,-117.069888,oil_and_gas_plant,Mexico
+526,El Carmen Nuevo Leon power station,Iberdrola México SA de CV,25.869982,-100.358834,oil_and_gas_plant,Mexico
+527,Gelugor power station,Tenaga Nasional Bhd,5.3803,100.3147,oil_and_gas_plant,Malaysia
+528,Yeongnam power station,KOSPO YoungNam Power Co Ltd,35.5139879,129.38339,oil_and_gas_plant,
+529,Kulekhani I hydroelectric plant,Nepal Electricity Authority (NEA),27.5899,85.156,hydro_power_low,Nepal
+530,Chino Mines power station,FreePort-McMoRan-Corp-Chino Mines,32.6956,-108.1225,oil_and_gas_plant,United States
+531,Lost Pines 1 power project,GENTEX Power Corp,30.1478,-97.2714,oil_and_gas_plant,United States
+532,Glow Energy power complex,Glow Energy PCL,12.675773,101.135243,oil_and_gas_plant,Thailand
+533,Kayamkulam Gas power plant,NTPC Ltd,9.20719590151621,76.4342253069448,oil_and_gas_plant,India
+534,Bibiana III power station,Bangladesh Power Development Board (BPDB),24.6365572,91.6564872,oil_and_gas_plant,Bangladesh
+535,Kafr El-Dawar power plant,West Delta Electricity Production Co,31.1293,30.1932,oil_and_gas_plant,Egypt
+536,Greenland energy center,JEA,30.159131,-81.51842,oil_and_gas_plant,United States
+537,Gibraltar's Rock power station,Shell PLC,36.1297,-5.354,oil_and_gas_plant,United Kingdom
+538,Kings Mountain energy center,Carolina Power Partners LLC,35.2025,-81.36306,oil_and_gas_plant,United States
+539,HPCL Vizag Refinery power station,Hindustan Petroleum Corp Ltd,17.6885800793577,83.2519433973727,oil_and_gas_plant,India
+540,Gordonsville Energy power station,Virginia Electric and Power Co,38.124688,-78.20354,oil_and_gas_plant,United States
+541,Bayboro power station,Duke Energy Florida LLC,27.758056,-82.635278,oil_and_gas_plant,
+542,Jiangmen Gujing Energy Service Thermal power station,Jiangmen Gujing Energy Service Co Ltd,22.274512,113.093824,oil_and_gas_plant,China
+543,Suwannee River power station,Duke Energy Florida LLC,30.376389,-83.18056,oil_and_gas_plant,United States
+544,Termini Imerese power station,Enel SpA,37.96801,13.75079,oil_and_gas_plant,Italy
+545,Tangshan Jiahua Coal Chemical Co./Ltd. power project,Tangshan Jiahua Coal Chemical Co Ltd,39.250618,119.028807,oil_and_gas_plant,China
+546,Nawabganj power station,Dhaka Southern Power Generations Ltd,23.7110164136099,90.1687620945754,oil_and_gas_plant,Bangladesh
+547,Manuel Belgrano II power station,AES Argentina Generación SA,-34.184147,-59.006496,oil_and_gas_plant,Argentina
+548,Vpower Palembang power station,VPower Group International Holdings Ltd,-2.95736554783421,104.77634917092,oil_and_gas_plant,Indonesia
+549,Fort Churchill power station,NV Energy,39.1281,-119.1322,oil_and_gas_plant,United States
+550,Guangxi Fangchenggang Shenglong Metallurgical Gas Power Project,Guangxi Shenglong Metallurgical Co Ltd,21.677879,108.409681,oil_and_gas_plant,China
+551,Gulf CRN power station,Gulf JP Co Ltd,14.097682,100.572578,oil_and_gas_plant,Thailand
+552,Amata (Chonburi) power station,B.Grimm Power PCL,13.4191,101.0272,oil_and_gas_plant,Thailand
+553,Hassyan Clean-Coal Power Project,Silk Road Fund,25.2048,55.2708,oil_and_gas_plant,United Arab Emirates
+554,Turcas Denizli Doğalgaz S. power station,RWE AG,37.8504,29.4152,oil_and_gas_plant,
+555,Gela Biorefinery power station,Eni Rewind SpA,37.0546,14.2769,oil_and_gas_plant,Italy
+556,Connaught Bridge power station,TNB Connaught Bridge Sdn Bhd,3.0433,101.4696,oil_and_gas_plant,Malaysia
+557,Rades II power station,Nebras Power QPSC,36.799,10.2865,oil_and_gas_plant,Tunisia
+558,Richards Bay (Mhlathuze Energy) power station,Mhlathuze Energy,-28.789926,32.063574,oil_and_gas_plant,South Africa
+559,Corinth Refinery power station,Motor Oil Hellas,37.9209,23.0726,oil_and_gas_plant,Greece
+560,Likhu 4 hydroelectric plant,Bhilwara Energy LTD,27.4444,86.2584,hydro_power_low,Nepal
+561,Sendou power station,National Electricity Company of Senegal,14.686988,-17.2139259,oil_and_gas_plant,Senegal
+562,Son My I power station,EDF,10.65008,107.68464,oil_and_gas_plant,Viet Nam
+563,Redondo Beach generation station,AES Redondo Beach LLC,33.8504,-118.395,oil_and_gas_plant,United States
+564,Puerto Cortés power station,Cortés Gas Natural,15.825991,-87.929567,oil_and_gas_plant,Honduras
+565,Laeisz La Ensenada power station,Grupo Laeisz,15.78468,-86.65457,oil_and_gas_plant,Honduras
+566,Etgal Ashdod power station,Shikun & Binui Energy Ltd,31.8266073091884,34.6485991406995,oil_and_gas_plant,Israel
+567,Central de Quileva power plant,Public Electricity Production Co,-12.38199,13.5921,oil_and_gas_plant,Angola
+568,Baghabari power station,Bangladesh Power Development Board (BPDB),24.1356805,89.5908393,oil_and_gas_plant,Bangladesh
+569,Betano power station,Electricidade de Timor-Leste Empresa Pública,-9.15359623116397,125.735452130322,oil_and_gas_plant,Timor-Leste
+570,Sousse C power station,Tunisian Company of Electricity and Gas,35.785913,10.677649,oil_and_gas_plant,Tunisia
+571,SPIC Langfang Gas power station,State Power Investment Corp Langfang Thermal Power Co Ltd,39.471088,116.653469,oil_and_gas_plant,China
+572,Emilio Portes Gil power station,Comisión Federal de Electricidad EPE,25.982075,-98.062723,oil_and_gas_plant,Mexico
+573,Central Jaramijó power station,Corporación Nacional de Electricidad EP,-0.981065,-80.641787,oil_and_gas_plant,Ecuador
+574,Ramos cogeneration power station,Iberdrola Generación México,25.59547,-100.888213,oil_and_gas_plant,Mexico
+575,Dongo Kundu power station,Kenya Electricity Generating Company PLC,-4.009102,39.564939,oil_and_gas_plant,Kenya
+576,Wakayama Joint power station,Wakayama Kyodo Power Co,34.2639163587518,135.063071259607,oil_and_gas_plant,Japan
+577,Kribi power station,Globeleq Generation Ltd,3.03390381889288,9.97482223558516,oil_and_gas_plant,Cameroon
+578,Huaneng Yangpu Cogen power station,Huaneng Yangpu Thermal Power Co Ltd,19.832144,109.203812,oil_and_gas_plant,
+579,Rithala Gas power plant,Tata Power Co Ltd,28.7327,77.1016,oil_and_gas_plant,India
+580,Gautami Combined Cycle power plant,GVK Industries Ltd,17.0386,82.1286,oil_and_gas_plant,India
+581,Balikpapan Refinery power plant,Balikpapan Refinery,1.57872611117982,114.608756454235,oil_and_gas_plant,Malaysia
+582,Dansby power station,City of Bryan - (TX),30.7217,-96.4608,oil_and_gas_plant,United States
+583,Ishikawa Uruma power station,Okinawa Electric Power Co Inc,26.4294821654497,127.840339960347,oil_and_gas_plant,Japan
+584,Myagdi Khola hydroelectric plant,Serba Dinamik International LTD,28.601,83.3903,hydro_power_low,Nepal
+585,Hebei Puyang Iron and Steel Co./Ltd. Gas Power Project,Hebei Puyang Iron and Steel Co Ltd,36.714467,113.917265,oil_and_gas_plant,China
+586,Amapá Power I power station,Brazilian Energy Participações SA,-0.062594,-51.204775,oil_and_gas_plant,Brazil
+587,Nevada Solar One power station,Acciona Solar Power,35.799798,-114.9817,oil_and_gas_plant,United States
+588,Treasure Coast energy center,Florida Municipal Power Agency,27.383889,-80.3775,oil_and_gas_plant,United States
+589,Korangi Creek Industrial power station,Korangi Creek Industrial Park,24.8032433365747,67.1020459232991,oil_and_gas_plant,Pakistan
+590,Montgomery County power station,Entergy Texas Inc,30.44083,-95.5275,oil_and_gas_plant,United States
+591,GECOL power plant 2,General Electricity Company of Libya,32.88645,13.19172,oil_and_gas_plant,Libya
+592,Wasit power station,Sharjah Electricity & Water Authority,25.3732,55.4611,oil_and_gas_plant,United Arab Emirates
+593,Hebei Xinjin Iron and Steel Co./Ltd. Gas Power Project,Hebei Xinjin Iron and Steel Co Ltd,36.718132,114.215168,oil_and_gas_plant,China
+594,Ka Ga power station,Siemens Energy AG,10.703131,107.98916,oil_and_gas_plant,Viet Nam
+595,Sarroch power station,Saras SpA,39.0777,9.0162,oil_and_gas_plant,Italy
+596,Bekasi power station,PT Bekasi Power,-6.269558,107.159678,oil_and_gas_plant,Indonesia
+597,Shady Hills combined cycle facility,Shady Hills Energy Center LLC,28.366667,-82.55833,oil_and_gas_plant,United States
+598,Luwuk power station,PT PLN (Persero),-1.325641,122.498276,oil_and_gas_plant,Indonesia
+599,CNOOC Zhuhai Gas power station,CNOOC Zhuhai Natural Gas Power Generation Co Ltd,21.92294,113.220772,oil_and_gas_plant,
+600,Badigad Khola hydroelectric plant,Liberty Energy CO,28.2912,83.1786,hydro_power_low,Nepal
+601,Broadwing Clean energy complex,8 Rivers Capital,39.8496585753772,-88.9510466624394,oil_and_gas_plant,United States
+602,Zayzoun CCGT power plant,Public Establishment of Electricity Generation,35.932216,36.633551,oil_and_gas_plant,Syrian Arab Republic
+603,Mid-Georgia cogeneration facility,Rockland Capital,32.4856,-83.6039,oil_and_gas_plant,United States
+604,Ceredo generating station,Appalachian Power Co,38.3681,-82.5339,oil_and_gas_plant,United States
+605,Refinería Hector Lara Sosa power station,Pemex-Transformación Industrial,25.5867,-99.945902,oil_and_gas_plant,Mexico
+606,S O Purdom power station,City of Tallahassee - (FL),30.162304,-84.20067,oil_and_gas_plant,United States
+607,Az Zour North power plant,Kuwait Authority for Partnership Projects (KAPP),28.7135,48.3806,oil_and_gas_plant,Kuwait
+608,Karbala Oil Refinery power plant,Ministry of Oil (Iraq),32.343665,44.095158,oil_and_gas_plant,Iraq
+609,Pocheon power station,Pocheon Power Co Ltd,37.9465,127.1689,oil_and_gas_plant,
+610,Colorado Bend energy center power station,TotalEnergies SE,29.2878,-96.0683,oil_and_gas_plant,United States
+611,Solomon Hub mine power station,Fortescue Ltd,-22.1128867832019,117.882752554722,oil_and_gas_plant,Australia
+612,Frias power station,Generación Mediterránea SA,-28.6072,-65.1228,oil_and_gas_plant,Argentina
+613,IPP3 ICE power plant,Amman Asia Electric Power Company PSC,31.955219,35.945031,oil_and_gas_plant,Jordan
+614,Kanbauk power station,TotalEnergies SE,14.5938207,98.0289885,oil_and_gas_plant,
+615,Prosperidade III power station,Imetame Termelétrica Ltda,-12.499615,-38.207336,oil_and_gas_plant,Brazil
+616,Huadian Zizhuang Gas power station,Shanghai Huadian Minhang Energy Co Ltd,31.059585,121.357885,oil_and_gas_plant,China
+617,Washington County power (GA) station,SEPG Operating Services LLC,33.092239,-82.97999,oil_and_gas_plant,United States
+618,Ponta Negra power station,GERA Amazonas,-3.091056,-60.072972,oil_and_gas_plant,Brazil
+619,Yanbu 2 power plant,Power and Water Utility Company for Jubail and Yanbu,23.9104,38.3814486327277,oil_and_gas_plant,Saudi Arabia
+620,Tanjung Batu power station,PT PLN (Persero),-0.381356,117.051316,oil_and_gas_plant,Indonesia
+621,Kelar power station,Tamakaya SpA,-23.035092,-70.339933,oil_and_gas_plant,Chile
+622,Mt Stuart power station,Origin Energy Ltd,-19.3377451395867,146.851595361967,oil_and_gas_plant,Australia
+623,Yucca power station,Imperial Irrigation District,32.7214,-114.7106,oil_and_gas_plant,United States
+624,ACWA LNG power station,ACWA Power Co,21.6125357145186,91.9490293066332,oil_and_gas_plant,Bangladesh
+625,Gulf BL power station,Gulf MP Co Ltd,14.252758,100.588845,oil_and_gas_plant,Thailand
+626,MARAFIQ Independent Water and power plant,Jubail Water and Power Company,26.896567,49.776874,oil_and_gas_plant,Saudi Arabia
+627,Hai-Fu power station,Ever Power IPP Co Ltd,25.1165227,121.2562928,oil_and_gas_plant,"Taiwan, Province of China"
+628,Son My II power station,AES Corp,10.655774,107.6467244,oil_and_gas_plant,Viet Nam
+629,Liberty power station,Liberty Power Ltd,28.0321419,69.633708,oil_and_gas_plant,Pakistan
+630,Plaquemine cogeneration plant,Dow Chemical Co,30.3217,-91.2347,oil_and_gas_plant,United States
+631,San Jacinto Steam electric station,NRG Texas Power LLC,29.694838,-95.04062,oil_and_gas_plant,United States
+632,Karpowership Richards Bay power station,Karpowership South Africa,-28.79483,32.031704,oil_and_gas_plant,South Africa
+633,Guangxi Guigang Iron and Steel Group Co./Ltd. Gas Power Project,Guangxi Guigang Iron and Steel Group Co Ltd,23.088516,109.634057,oil_and_gas_plant,China
+634,Pimentel 3 power station,Consorcio Laesa Ltd,19.20378,-70.09403,oil_and_gas_plant,Dominican Republic
+635,Lower Likhu hydroelectric plant,Sanima Hydropower,27.3916,86.2266,hydro_power_low,Nepal
+636,Surat Thani power station,Electricity Generating Authority of Thailand,9.071442,99.225492,oil_and_gas_plant,Thailand
+637,Río Tercero power station,SoEnergy SA,-32.161159,-64.154752,oil_and_gas_plant,Argentina
+638,Tangshan Donghua Iron & Steel Enterprise Group Co./Ltd. power project,Tangshan Donghua Iron & Steel Enterprise Group Co Ltd,39.470412,118.257758,oil_and_gas_plant,China
+639,Oyster Creek Unit VIII power station,Toyota Tsusho Corp,28.9802,-95.342,oil_and_gas_plant,United States
+640,Brindisi Nord power station,Enipower SpA,40.6293,18.0033,oil_and_gas_plant,Italy
+641,Shangang Group Hanzhong Iron & Steel Co./Ltd. Gas Power Project,Shangang Group Hanzhong Iron & Steel Co Ltd,33.134122,106.661301,oil_and_gas_plant,China
+642,El Segundo energy center,El Segundo Energy Center LLC,33.910556,-118.425,oil_and_gas_plant,United States
+643,U-50 power station,Petróleo Brasileiro SA,-8.385944,-35.030002,oil_and_gas_plant,Brazil
+644,Dongguan Songshanhu power station,China Resources Power (Dongguan) Co Ltd,22.8901447706252,113.880679053918,oil_and_gas_plant,China
+645,Banias power plant,Public Establishment of Electricity Generation,35.171559,35.927567,oil_and_gas_plant,Syrian Arab Republic
+646,Rudshur power station,Amir Kabir Electricity Generation & Development Co,35.418,50.911,oil_and_gas_plant,"Iran, Islamic Republic of"
+647,Hunterstown power plant,Kestrel Acquisition LLC,39.8725,-77.1672,oil_and_gas_plant,United States
+648,Orion Power Rupsha power station,Orion Power Ruphsa Ltd,22.7671143078877,89.5848014274776,oil_and_gas_plant,Bangladesh
+649,Lower Modi Khola hydroelectric plant,KL Dugar Group,28.2106,84.0017,hydro_power_low,Nepal
+650,Gwanggyo CHP power station,Korea District Heating Corp,37.299683,127.057892,oil_and_gas_plant,
+651,Huadian Wujiang Gas power station,Jiangsu Huadian Wujiang Thermal Power Co Ltd,30.973956,120.628798,oil_and_gas_plant,China
+652,Johnsonville Fossil Plant,Tennessee Valley Authority,36.0278,-87.9861,oil_and_gas_plant,United States
+653,Sulbagut 1 Combined Cycle power station,PT PLN (Persero),1.657387,125.088874,oil_and_gas_plant,Indonesia
+654,Jizan IGCC power plant,ACWA Power Co,17.338929,42.386941,oil_and_gas_plant,Saudi Arabia
+655,Madhumati power plant,North-West Power Generation Co Ltd,22.9346441679131,89.8109764220098,oil_and_gas_plant,Bangladesh
+656,Luján power station,Araucaria Energy,-34.557034,-59.03702,oil_and_gas_plant,Argentina
+657,Kyaukse (PowerGen) power plant,PowerGen Kyaukse Co Ltd,21.667690945901,96.1529348638521,oil_and_gas_plant,
+658,Jorge Luque power station,Generadora Fénix SAPI de CV,19.645741,-99.182501,oil_and_gas_plant,Mexico
+659,McDonough Steam Generating Plant,Georgia Power Co,33.8239,-84.4758,oil_and_gas_plant,United States
+660,Bethlehem power plant,Calpine Bethlehem LLC,40.6175,-75.3147,oil_and_gas_plant,United States
+661,Jaldigad hydroelectric plant,Shangrila Hydropower PVT LTD,28.8292,82.4569,hydro_power_low,Nepal
+662,Musandam power plant,Musandam Power Company SAOG,26.056121,56.089118,oil_and_gas_plant,Oman
+663,Summit Madanganj power plant,Summit Power Ltd,23.5961839842037,90.5150343442541,oil_and_gas_plant,Bangladesh
+664,GNA I power station,BP PLC,-21.837217,-41.041983,oil_and_gas_plant,Brazil
+665,Anson County generation facility,North Carolina Electric Membership Corp,34.968651,-79.92174,oil_and_gas_plant,United States
+666,Repsol Cartagena Refinery power station,Repsol SA,37.57512,-0.92928,oil_and_gas_plant,Spain
+667,Cogeneración Tula power station,Petróleos Mexicanos EPE,20.049765,-99.272495,oil_and_gas_plant,Mexico
+668,Vasilikos power station,Electricity Authority of Cyprus,34.727127,33.289861,oil_and_gas_plant,Cyprus
+669,Shell Chemical Appalachia power station,Shell Chemical Appalachia LLC,40.671667,-80.33639,oil_and_gas_plant,United States
+670,Zinga power station,Kamal Power Ltd,-6.567097,39.018093,oil_and_gas_plant,"Tanzania, United Republic of"
+671,Nossa Senhora da Vitória power station,Ponte Nova Energia,-5.074057,-42.797823,oil_and_gas_plant,Brazil
+672,Uch power station,UCH-II Power Pvt Ltd,28.582708,68.176209,oil_and_gas_plant,Pakistan
+673,Dow St Charles Operations power station,Dow Chemical Co - St Charles,29.9861,-90.4414,oil_and_gas_plant,United States
+674,Phu My 4 Thermal power station,EVNGENCO 3 Co,10.604,107.037,oil_and_gas_plant,Viet Nam
+675,O Mon Power Complex,Marubeni Corp,10.134916,105.669325,oil_and_gas_plant,Viet Nam
+676,Monte Rio power station,Lear Investments SA,18.35137,-70.8325,oil_and_gas_plant,Dominican Republic
+677,GNA II power station,BP PLC,-21.838643,-41.015863,oil_and_gas_plant,Brazil
+678,Tangshan RUIFENG Steel and Iron (GROUP) Co./Ltd. power project,Tangshan RUIFENG Steel and Iron (GROUP) Co Ltd,39.502942,118.278453,oil_and_gas_plant,China
+679,Afam (FIPL) power station,First Independent Power Limited (FIPL),4.834987,7.226529,oil_and_gas_plant,Nigeria
+680,Bhola power station,Bangladesh Power Development Board (BPDB),22.4792923,90.7109566,oil_and_gas_plant,Bangladesh
+681,Victoria C (Roche Caiman) power station,Public Utilities Corp,-4.63232874968704,55.4661944693123,oil_and_gas_plant,Seychelles
+682,Manchief Electric generating station,Public Service Company of Colorado,40.217143,-103.685,oil_and_gas_plant,United States
+683,Ras Laffan C power plant,Ras Girtas Power Co,25.936944,51.522222,oil_and_gas_plant,Qatar
+684,Qeshm (Ghadir) power station,Qeshm Gostar Power Generation Co,26.901076,55.911071,oil_and_gas_plant,"Iran, Islamic Republic of"
+685,Engro power station,Engro Powergen Qadirpur Ltd,28.02607,69.364931,oil_and_gas_plant,Pakistan
+686,Ramat Hovav power station,Shikun & Binui Energy Ltd,31.1536,34.8146,oil_and_gas_plant,Israel
+687,Topaz Generating power station,Topaz II LLC,29.426389,-94.97667,oil_and_gas_plant,United States
+688,Ningbo Lvyuan Natural Gas power station,Ningbo Lvyuan Natural Gas Electric Power Co Ltd,29.871568,121.413095,oil_and_gas_plant,China
+689,Narayanganj power station,Desh Energy,23.6825736149117,90.5242714601494,oil_and_gas_plant,Bangladesh
+690,Palma Gas Thermal power plant,Eni SpA,-10.7737307,40.4693413,oil_and_gas_plant,Mozambique
+691,Chalk Point Generating Station,NRG Chalk Point CT,38.5444,-76.6861,oil_and_gas_plant,United States
+692,Oita Co-operative power plant,"Oita Cooperative Thermal Power Co.,Inc.",33.2714323170136,131.704086788358,oil_and_gas_plant,
+693,Termosolo power station,SeaOne,3.875747,-77.058222,oil_and_gas_plant,
+694,Río Bravo III (Lomas del Real) power station,Valia Energía,25.799585,-97.784871,oil_and_gas_plant,Mexico
+695,Jebel Ali D Power and Desalination Station,Dubai Electricity and Water Authority PJSC,25.0659,55.1235,oil_and_gas_plant,United Arab Emirates
+696,CCC González Ortega power station,Comisión Federal de Electricidad EPE,32.548847,-115.352892,oil_and_gas_plant,Mexico
+697,Saif power station,Saif Power Ltd,30.6961864,73.2593633,oil_and_gas_plant,Pakistan
+698,CCC Mérida power station,Comisión Federal de Electricidad EPE,20.92715,-89.687894,oil_and_gas_plant,Mexico
+699,Yulchon power station,China General Nuclear Power New Energy Holdings Co Ltd,34.913,127.593,oil_and_gas_plant,
+700,Snyder power station,Kinder Morgan Production Co LP,32.747058,-100.9547,oil_and_gas_plant,United States
+701,Soyo power station,Sonagás,-6.181824,12.325453,oil_and_gas_plant,Angola
+702,Ka Ga power station,Energy Capital Vietnam Holdings LLC,10.703131,107.98916,oil_and_gas_plant,Viet Nam
+703,Blue Valley Power Plant,City of Independence - (MO),39.0919,-94.3261,oil_and_gas_plant,United States
+704,Taha power station,Bades Elektrik Üretim AŞ,37.3118819736532,40.7330169726601,oil_and_gas_plant,
+705,Mien Trung power station,Vietnam Oil and Gas Group Co,15.440468,108.618372,oil_and_gas_plant,Viet Nam
+706,Palomar Energy power station,San Diego Gas & Electric Co,33.1197,-117.1178,oil_and_gas_plant,United States
+707,Jiangsu Huafeng Microfiber Distributed Energy Station,Huafon Microfibre (Jiangsu) Co Ltd,32.03667,121.729948,oil_and_gas_plant,
+708,CE&P Imperial Valley 1 power station,California Ethanol & Power LLC,32.912778,-115.5183,oil_and_gas_plant,United States
+709,Khabat Thermal Power Plant,Kurdistan's Ministry of Electricity,36.190085,43.988706,oil_and_gas_plant,Iraq
+710,Guangdong Chenghai Yixin Distributed Gas power station,Shantou Yixin Gas Distributed Energy Co Ltd,23.5411107650119,116.817172819983,oil_and_gas_plant,China
+711,Haripur power station,Electricity Generation Company of Bangladesh (EGCB),23.6804015,90.5213497,oil_and_gas_plant,Bangladesh
+712,Henry County power station,Duke Energy Indiana LLC,39.9528,-85.5039,oil_and_gas_plant,United States
+713,Gazaria power station (RPCL),Rural Power Co Ltd,23.5093567085758,90.4159334416062,oil_and_gas_plant,Bangladesh
+714,Tobata power station,Tobata Co-operative Thermal Power Co Inc,33.926745,130.84764,oil_and_gas_plant,Japan
+715,Campina Grande power plant,Bolognesi Energia SA,-7.293046,-35.908664,oil_and_gas_plant,Brazil
+716,Roseville energy park,City of Roseville - (CA),38.7928,-121.3811,oil_and_gas_plant,United States
+717,Reidsville energy center,Vitis Energy,36.334261,-79.83215,oil_and_gas_plant,United States
+718,Georgetown power station,Indiana Municipal Power Agency,39.902556,-86.24405,oil_and_gas_plant,United States
+719,Ratchaburi Power (RPCL) power station,Global Power Synergy PCL,13.6068,99.8902,oil_and_gas_plant,Thailand
+720,Buin Zahra power plant,Thermal Power Plants Holding Co,35.7654,50.0529,oil_and_gas_plant,"Iran, Islamic Republic of"
+721,Diwaniyah power station,Ministry of Electricity (Iraq),31.97951,44.69328,oil_and_gas_plant,Iraq
+722,Sherwood H Smith Jr energy complex,Duke Energy Progress LLC,34.8392,-79.7406,oil_and_gas_plant,United States
+723,RPCL Gazipur power station,Rural Power Co Ltd,23.9909927219469,90.3443390852241,oil_and_gas_plant,Bangladesh
+724,GNA I power station,BP PLC,-21.837217,-41.041983,oil_and_gas_plant,Brazil
+725,Bandar Imam power station,Ab Niroo Bandar Imam Co,30.435872,49.108914,oil_and_gas_plant,"Iran, Islamic Republic of"
+726,Yongchuan Gangqiao Industry Park Cogen power station,Chongqing Tiantai Thermal Power Co Ltd,29.366667,105.9,oil_and_gas_plant,China
+727,AGGREKO Bramhangoan power station,Aggreko,23.6403836784733,90.4580549528123,oil_and_gas_plant,Bangladesh
+728,Victoria City power station,Tres Power Victoria LLC,28.7853,-97.0093,oil_and_gas_plant,United States
+729,Sabha power plant,General Electricity Company of Libya,27.033885,14.445031,oil_and_gas_plant,Libya
+730,Tobruk Thermal power station,General Electricity Company of Libya,32.059544,23.980872,oil_and_gas_plant,Libya
+731,Falcondo mine power station,Falconbridge Dominica SA,18.927174,-70.35488,oil_and_gas_plant,Dominican Republic
+732,Parnaiba power station,Eneva SA,-4.820569,-44.355006,oil_and_gas_plant,Brazil
+733,GNA V power station,BP PLC,-21.842444,-41.026973,oil_and_gas_plant,Brazil
+734,Anderson power station,Indiana Municipal Power Agency,40.0529,-85.7389,oil_and_gas_plant,United States
+735,Ankerlig power station,Eskom Holdings SOC Ltd,-33.589479,18.461496,oil_and_gas_plant,South Africa
+736,Al-Gharraf power plant,Ministry of Oil (Iraq),31.774761,46.061954,oil_and_gas_plant,Iraq
+737,Losan Pina power station,PINA SA,39.99519,-2.04026,oil_and_gas_plant,Spain
+738,Ichthys LNG power station,Tokyo Gas Co Ltd,-12.513898,130.918349,oil_and_gas_plant,Australia
+739,AltaGas Ripon Energy power station,AltaGas Ripon Energy Inc,37.732533,-121.116,oil_and_gas_plant,United States
+740,BEP TGLA power station,Brazilian Energy Participações SA,-0.014538,-51.207221,oil_and_gas_plant,Brazil
+741,Chunchet Syar Khola hydroelectric plant,Chilime Hydropower CO LTD (CHPCL),28.4576,84.9336,hydro_power_low,Nepal
+742,Dibabmba power station,Globeleq Generation Ltd,3.96722873667273,9.81775249375393,oil_and_gas_plant,Cameroon
+743,Nusseirat power station,Gaza Power Generating Co,31.4553978,34.3995378,oil_and_gas_plant,
+744,Garri 2 Power Plant,Sudanese Thermal Power Generating Co Ltd,16.119496,32.696871,oil_and_gas_plant,Sudan
+745,Morgan Creek power station,Luminant Generation Co LLC,32.3358,-100.9156,oil_and_gas_plant,United States
+746,Blythe Energy power station,AltaGas Blythe Operations Inc,33.6157,-114.6865,oil_and_gas_plant,United States
+747,Agrekko Vridi power station,Aggreko,5.25859208481203,-4.00684414354466,oil_and_gas_plant,
+748,Buck Steam Station,Duke Energy Carolinas LLC,35.7133,-80.3767,oil_and_gas_plant,United States
+749,Maputo power station,Electricidade de Moçambique EP,-25.9393,32.530062,oil_and_gas_plant,Mozambique
+750,Datang Xinyi Gas Thermal power station,China Datang Corp,34.370748,118.297143,oil_and_gas_plant,China
+751,Mersin Camis power station,Camiş Elektrik Üretim AŞ,36.814451,34.734962,oil_and_gas_plant,
+752,Tainan Jiuwei Nanke power station,Shinfox Energy Co Ltd,23.090809,120.233188,oil_and_gas_plant,"Taiwan, Province of China"
+753,Clifton Pier power station,Bahamas Power and Light Ltd,25.004282,-77.540168,oil_and_gas_plant,
+754,Al Wajbha GT Power Plant Qatar,Qatar Electricity and Water Company QPSC,25.291669,51.385142,oil_and_gas_plant,Qatar
+755,Mansurya power station,Ministry of Electricity (Iraq),34.144823,44.941243,oil_and_gas_plant,Iraq
+756,MEPI GT Facility,Kentucky Utilities Co,37.2175,-88.8661,oil_and_gas_plant,United States
+757,Columbia energy center (SC),Dominion Energy South Carolina Inc,33.8697,-81.0178,oil_and_gas_plant,United States
+758,Condamine power station,QGC Sales QLD Pty Ltd,-26.668049,150.270033,oil_and_gas_plant,Australia
+759,CST power station,ArcelorMittal Brasil SA,-20.252287,-40.241924,oil_and_gas_plant,Brazil
+760,Kpone Thermal power plant,Volta River Authority,5.734624,0.009259,oil_and_gas_plant,Ghana
+761,Ingeniero White thermal power plant,Pampa Energia SA,-38.784889,-62.252908,oil_and_gas_plant,Argentina
+762,Upper Chameliya hydroelectric plant,API Power CO PVT LTD,29.7424,80.7818,hydro_power_low,Nepal
+763,E.W. Brown Generating Station,Louisville Gas & Electric Co,37.78831,-84.71257,oil_and_gas_plant,United States
+764,Campbell Industrial Park power station,Hawaiian Electric Co Inc,21.3025,-158.101667,oil_and_gas_plant,United States
+765,Nueces Bay power station,Talen Texas LLC,27.819412,-97.4192,oil_and_gas_plant,United States
+766,Pangyo CHP power station,Korea District Heating Corp,37.3918058,127.1033508,oil_and_gas_plant,
+767,Indorama Sines power station,Indorama Ventures Portugal PTA,37.98091,-8.82143,oil_and_gas_plant,Portugal
+768,Barrow Island LNG power station,Chevron Corp,-20.77708,115.461583,oil_and_gas_plant,Australia
+769,Aliveri power station,Public Power Corporation SA,38.3896,24.0524,oil_and_gas_plant,Greece
+770,Mid Hongu Khola A hydroelectric plant,Synergy Power Development LTD,27.5249,86.8774,hydro_power_low,Nepal
+771,Energy Center Dover power plant,Energy Center Dover LLC,39.149549,-75.54734,oil_and_gas_plant,United States
+772,Kourou power station,Electricité de France SA,5.162803,-52.670054,oil_and_gas_plant,France
+773,Red Oak power station,Red Oak Power LLC,40.448674,-74.34888,oil_and_gas_plant,United States
+774,EPP Santana power station,Evolution Power Partners SA,-0.011704,-51.209738,oil_and_gas_plant,Brazil
+775,Tabuk PP2 power plant,Saudi Electricity Co,28.4706907736706,36.519113,oil_and_gas_plant,Saudi Arabia
+776,Kilwa power station,Tanzania Electric Supply Company LTD (TANESCO),-8.90899418018163,39.5125005841203,oil_and_gas_plant,"Tanzania, United Republic of"
+777,Huaneng Longmen Gas power station,China Huaneng Group Co Ltd Southern Branch,23.689873,114.290326,oil_and_gas_plant,China
+778,Syrdarya II power station,EDF,40.242115,69.10543,oil_and_gas_plant,Uzbekistan
+779,Louisiana 1 power station,ExxonMobil Corp,30.4922,-91.1864,oil_and_gas_plant,United States
+780,Brooklyn Navy Yard cogeneration power station,Energy Investors Fund II LP,40.699357,-73.97639,oil_and_gas_plant,United States
+781,Riyadh City-13 power station,Saudi Electricity Co,24.785024,45.621535,oil_and_gas_plant,Saudi Arabia
+782,Wuhan Donghu Gas Thermal power station,Hubei Energy Donghu Gas Turbine Thermal Power Co Ltd,30.486157,114.421491,oil_and_gas_plant,China
+783,Jack Fusco energy center,Brazos Valley Energy,29.4731,-95.6244,oil_and_gas_plant,United States
+784,Freedom power project,Southwestern Electric Cooperative Inc,39.103333,-88.85898,oil_and_gas_plant,United States
+785,Shennan Power Dongguan Gaobu Natural Gas power station,Dongguan Shenran Natural Gas Thermal Power Co Ltd,23.126695,113.755391,oil_and_gas_plant,China
+786,Bear Garden power station,Virginia Electric and Power Co,37.695556,-78.28528,oil_and_gas_plant,United States
+787,Barrow Island LNG power station,Osaka Gas Co Ltd,-20.77708,115.461583,oil_and_gas_plant,Australia
+788,El Potosino power station,Ingeniería Nebri SAPI de CV,21.212251,-100.61926,oil_and_gas_plant,Mexico
+789,Port Said East power plant,Port Said East Power SAE,31.09952,32.52024,oil_and_gas_plant,Egypt
+790,Ywama power station,Electric Power Generation Enterprise,16.9,96.089,oil_and_gas_plant,
+791,CNOOC Zhongshan Jiaming Gas power station,Zhongshan Jiaming Electric Power Co Ltd,22.569977,113.572525,oil_and_gas_plant,
+792,Cartagena (Escombreras) power station,Naturgy Energy Group SA,37.57274,-0.93841,oil_and_gas_plant,Spain
+793,Humay power station,Gaz et L’Energie S.A.C.,-13.694616,-76.02811,oil_and_gas_plant,Peru
+794,Termolectrica Garabito power station,Instituto Costarricense de Electricidad (ICE),10.04397,-84.75977,oil_and_gas_plant,Costa Rica
+795,Igarapé thermoelectric power station,Companhia Energética de Minas Gerais,-19.970096,-44.28292,oil_and_gas_plant,Brazil
+796,Himeji Daiichi power station,Kansai Electric Power Co,34.773005,134.666632,oil_and_gas_plant,
+797,Alaoji power station,Alaoji Generation Co Ltd,5.066768,7.32181,oil_and_gas_plant,Nigeria
+798,Vermillion energy facility,Duke Energy Indiana LLC,39.922328,-87.44636,oil_and_gas_plant,United States
+799,Belawan power station,PT PLN (Persero),3.773148,98.670029,oil_and_gas_plant,Indonesia
+800,Yangon Amata Smart City power station,PTT Exploration and Production PCL,17.0028553023931,96.3012384739696,oil_and_gas_plant,
+801,Nevada cogeneration Associates 2 power station,Panwest NCA2 Holdings LLC,36.2253,-114.8783,oil_and_gas_plant,United States
+802,Shuqaiq 2 Independent Water and Power Project,Mitsubishi Corp,17.6596010175072,42.0760800596721,oil_and_gas_plant,Saudi Arabia
+803,Choctaw County power station,Entergy Mississippi LLC,33.2881,-89.4201,oil_and_gas_plant,United States
+804,McCartney power station,City Utilities of Springfield - (MO),37.248431,-93.17084,oil_and_gas_plant,United States
+805,Barbosa Lima Sobrinho power station,Petróleo Brasileiro SA,-22.720035,-43.649059,oil_and_gas_plant,Brazil
+806,Refinería General Lázaro Cárdenas power station,Pemex-Transformación Industrial,17.985339,-94.533994,oil_and_gas_plant,Mexico
+807,Tamor Khola 5 hydroelectric plant,Riverside Hydro Energy Company,27.5212,87.7964,hydro_power_low,Nepal
+808,Santahar Peaking power station,Bangladesh Power Development Board (BPDB),24.7977204695233,88.9842576532955,oil_and_gas_plant,Bangladesh
+809,Ralph Green power station,Evergy Missouri West,38.78758,-94.27769,oil_and_gas_plant,United States
+810,Anclote power station,Duke Energy Florida LLC,28.184444,-82.78861,oil_and_gas_plant,United States
+811,Laredo power station,Talen Texas LLC,27.5667,-99.5089,oil_and_gas_plant,United States
+812,Southern Cross power station,TransAlta Corp,-31.1918987,121.6719065,oil_and_gas_plant,Australia
+813,Yudean Huizhou Gas power station,Guangdong Huizhou Natural Gas Power Generation Co Ltd,22.759327,114.613691,oil_and_gas_plant,
+814,Andrés power station,AES Dominicana,18.4074,-69.6343,oil_and_gas_plant,Dominican Republic
+815,Hanam CHP power station,Narae Energy Service Co Ltd,37.5515272443685,127.185941741592,oil_and_gas_plant,
+816,Kelanitissa LNG power station,Ceylon Electricity Board,6.954409,79.877895,oil_and_gas_plant,Sri Lanka
+817,Moreau power station,Union Electric Co - (MO),38.555713,-92.102316,oil_and_gas_plant,United States
+818,G2 Net-Zero power plant,G2 Net-Zero,29.8148514427567,-93.3584862813269,oil_and_gas_plant,United States
+819,Prenergy El Salto power station,Prenergy de México SA de CV,20.517827,-103.182686,oil_and_gas_plant,Mexico
+820,Karuwa Seti hydroelectric plant,Jhayamolongma Hydro Power Development PVT LTD,28.4086,83.9811,hydro_power_low,Nepal
+821,Shuweihat S3 power plant,Sumitomo Corp,24.1535,52.566208,oil_and_gas_plant,United Arab Emirates
+822,Wanneng Hefei Peaking power station,Hefei Wanneng Gas Power Generation Co Ltd,32.1326869,117.1424926,oil_and_gas_plant,China
+823,CTE Máximo Gómez power station,Unión Eléctrica de Cuba,23.019234,-82.74887,oil_and_gas_plant,Cuba
+824,Chevron Oil power station,Mississippi Power Co,30.34,-88.4919,oil_and_gas_plant,United States
+825,Santa Rosa energy center,Santa Rosa Energy Center LLC,30.5664,-87.115,oil_and_gas_plant,United States
+826,Indigo energy facility,Diamond Generating Corp,33.910873,-116.553,oil_and_gas_plant,United States
+827,Zomet power station,OPC Energy Ltd,31.6096544,34.7419199,oil_and_gas_plant,Israel
+828,Kyaiklat power station,PTT Exploration and Production PCL,16.459955,95.707513,oil_and_gas_plant,
+829,Hrazdan thermal power plant,Hrazdan Energy Company OJSC,40.56950825,44.75277533,oil_and_gas_plant,Armenia
+830,Cala Morritos power station,Cala Morritos Power SpA,-31.108632,-71.614302,oil_and_gas_plant,Chile
+831,Hongchang Xinyang Gas Thermal power station,Henan Hongchang Gas Power Co Ltd,32.183759,114.489507,oil_and_gas_plant,China
+832,San Isidro power station (Chile),Enel Generación Chile SA,-32.936,-71.315,oil_and_gas_plant,Chile
+833,Karpowership (Indonesia) Zeynep Sultan power station,Karpowership,1.187715,124.478541,oil_and_gas_plant,
+834,Redbud power plant,Grand River Dam Authority,35.6856,-97.2264,oil_and_gas_plant,United States
+835,Kurashiki Joint power station,Setouchi Joint Thermal Power Co Ltd,34.4900347820847,133.719100895652,oil_and_gas_plant,Japan
+836,Nishi-Nagoya thermal power station,JERA Co Inc,35.031904,136.831966,oil_and_gas_plant,
+837,Southern Grid Hainan Wenchang Gas power station,China Southern Power Grid Peak and Frequency Modulation Power Generation Co Ltd,19.788535,110.716477,oil_and_gas_plant,China
+838,Tagkawayan Power Station,Orion Pacific Prime Energy Inc,13.94197,122.50795,oil_and_gas_plant,Philippines
+839,Braes Bayou Plant,Braes Bayou Generating LLC,29.480277,-95.62028,oil_and_gas_plant,United States
+840,Payra LNG power station,North-West Power Generation Co Ltd,21.999205,90.305597,oil_and_gas_plant,Bangladesh
+841,Cove Power Station,Electricity Commission (Trinidad and Tobago),11.14238,-60.79241,oil_and_gas_plant,
+842,Daesan Complex power station,CGN Daesan Electric Power Co Ltd,36.9971632207004,126.365229597712,oil_and_gas_plant,
+843,Huangneng Guangdong Huizhou power station,China Huaneng Group Co Ltd Southern Branch,23.689729,114.29295,oil_and_gas_plant,China
+844,Los Guinchos power station,Endesa SA,28.662979,-17.791705,oil_and_gas_plant,Spain
+845,Tahrir Petrochemicals Complex power plant,Ministry of Petroleum and Mineral Resources (Egypt),29.68998,32.323216,oil_and_gas_plant,Egypt
+846,Paguthan Combined Cycle power plant,CLP India PVT LTD,21.78,72.979,oil_and_gas_plant,India
+847,Paris energy center,Paris Generation LP,33.6968,-95.5577,oil_and_gas_plant,United States
+848,Ca's Tresorer power station,Endesa SA,39.5672,2.6895,oil_and_gas_plant,Spain
+849,Hibiki Natural Gas power plant,Kyushu Electric Power Co Inc,33.9305,130.778885,oil_and_gas_plant,Japan
+850,Jixuan Energy Huashan Gas Thermal power station,Shandong Jixuan Energy Co Ltd,36.76676,117.092527,oil_and_gas_plant,China
+851,Richards Bay Gas to Power Plant 3,Phakwe Richards Bay Gas Power 3 Pty Ltd,-28.7417885318119,32.0342877057326,oil_and_gas_plant,South Africa
+852,Audrain generating station,Union Electric Co,39.3092,-91.5369,oil_and_gas_plant,United States
+853,Kemerton power station,RATCH-Australia Corporation Pty Ltd,-33.1633,115.7805,oil_and_gas_plant,Australia
+854,Stillwater Energy Center,Stillwater Utilities Authority,36.161944,-97.036944,oil_and_gas_plant,United States
+855,La Raisa power station,Corporación Eléctrica Nacional (Venezuela) SA,10.2561,-66.7922,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+856,Mill Creek (SC) power station,Duke Energy Carolinas LLC,35.1597,-81.4306,oil_and_gas_plant,United States
+857,Arapahoe Station,SWG Arapahoe LLC,39.6692,-105.0018,oil_and_gas_plant,United States
+858,Tiger Bay power station,Duke Energy Florida LLC,27.746369,-81.84945,oil_and_gas_plant,United States
+859,Norte Durango power station,Naturgy México SA de CV,24.229667,-104.479594,oil_and_gas_plant,Mexico
+860,Seti Khola hydroelectric plant,Vision Lumbini LTD,28.3406,83.9646,hydro_power_low,Nepal
+861,Rizziconi power station,Rizziconi Energia SpA,38.4453,15.99,oil_and_gas_plant,Italy
+862,Kunaban Khola hydroelectric plant,Sushmit Energy PVT LTD,28.6501,83.3722,hydro_power_low,Nepal
+863,Sines Refinery power station,Galp Energia SGPS SA,38.7565,-9.1754,oil_and_gas_plant,Portugal
+864,Anta power plant,NTPC Ltd,25.1797,76.3188,oil_and_gas_plant,India
+865,DGEN Mega Combined Cycle power plant,Torrent Power Ltd,21.6923,72.6215,oil_and_gas_plant,India
+866,Xuzhou Tongshan Gas Thermal power station,China Resources Power Investment Co Ltd,34.136243,117.17211,oil_and_gas_plant,China
+867,Khulna power station,North-West Power Generation Co Ltd,22.866248,89.536417,oil_and_gas_plant,Bangladesh
+868,Felipe Carrillo Puerto power station,Comisión Federal de Electricidad EPE,20.697075,-88.268069,oil_and_gas_plant,Mexico
+869,Therma Marine Inc (TMI) 1 power barge power station,Therma Marine Inc,7.35000600488062,125.853288069549,oil_and_gas_plant,
+870,Penal power station,Power Generation Company of Trinidad and Tobago Ltd,10.147188,-61.47379,oil_and_gas_plant,
+871,Petrolina Energy power station,Companhia Energética de Petrolina,-9.371823,-40.582627,oil_and_gas_plant,Brazil
+872,CTG González Ortega power station,Comisión Federal de Electricidad EPE,32.56682,-115.289874,oil_and_gas_plant,Mexico
+873,Qatalum CCGT power station,Qatar Aluminium Ltd,24.9713,51.5811,oil_and_gas_plant,Qatar
+874,Balkan power station,Turkmenenergo,39.83555,54.85227,oil_and_gas_plant,Turkmenistan
+875,Umm Al Nar West and East Integrated Water and power plant,Abu Dhabi National Energy Company PJSC,24.434803591809,54.487617015839,oil_and_gas_plant,Japan
+876,Bandar Abbas power station,Hormozgan Regional Electric Co,27.144769,56.111904,oil_and_gas_plant,"Iran, Islamic Republic of"
+877,Rousch power station,Rousch (Pakistan) Power Ltd,30.568648,72.139604,oil_and_gas_plant,Pakistan
+878,José María España power station,Corporación Eléctrica Nacional (Venezuela) SA,10.420934,-66.954939,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+879,Huntington Beach generating station,AES Huntington Beach Energy LLC,33.645618,-117.9794,oil_and_gas_plant,United States
+880,Buzen power station,Kyushu Electric Power Co Inc,33.6260769381528,131.118712787113,oil_and_gas_plant,
+881,Josefa Camejo power station,Corporación Eléctrica Nacional (Venezuela) SA,11.75,-70.1716,oil_and_gas_plant,"Venezuela, Bolivarian Republic of"
+882,China Resources Changzhou Zhonglou Distributed Energy Station,China Resources Power (Changzhou) Co Ltd,31.800297,119.86221,oil_and_gas_plant,China
+883,Lawrence County Station,Wabash Valley Power Association Inc,38.8003,-86.4511,oil_and_gas_plant,United States
+884,Cumberland Steam Plant,Tennessee Valley Authority,36.38995,-87.6516,oil_and_gas_plant,United States
+885,Dongguan Humen Gas power station,Dongguan Humen Power Plant,22.815288,113.624786,oil_and_gas_plant,China
+886,Shuweihat S3 power plant,Korea Electric Power Corp,24.1535,52.566208,oil_and_gas_plant,United Arab Emirates
+887,Quevedo II Thermoelectric Power Plant,Corporación Nacional de Electricidad EP,-1.04872,-79.490365,oil_and_gas_plant,Ecuador
+888,Deer Park energy center,Deer Park Energy Center,29.713414,-95.13451,oil_and_gas_plant,United States
+889,Intercession City power station,Duke Energy Florida LLC,28.262778,-81.54861,oil_and_gas_plant,United States
+890,Refinaria Duque de Caxias power station,Petróleo Brasileiro SA,-22.719928,-43.281436,oil_and_gas_plant,Brazil
+891,Taft cogeneration Facility,Occidental Chemical Corp,29.9888,-90.4599,oil_and_gas_plant,United States
+892,Rossano power station,Enel SpA,39.6218,16.6084,oil_and_gas_plant,Italy
+893,Araucária power station,Petróleo Brasileiro SA,-25.588687,-49.354701,oil_and_gas_plant,Brazil
+894,Bonny Island LNG power plant,Nigeria LNG Ltd,4.41836,7.16157,oil_and_gas_plant,Nigeria
+895,Sycamore cogeneration power station,Sycamore Cogeneration Co,35.452577,-118.9853,oil_and_gas_plant,United States
+896,Qom power station,Qom Electric Power Generation Management Co,34.579,50.755,oil_and_gas_plant,"Iran, Islamic Republic of"
+897,Bagmati Nadi hydroelectric plant,Sichuan Hechuan Investment CO LTD,27.5363,85.2341,hydro_power_low,Nepal
+898,McMeekin Station,Dominion Energy South Carolina Inc,34.0556,-81.2172,oil_and_gas_plant,United States
+899,Daraband power station,KPK Economic Zones Development and Management Co,31.7440195373388,70.3347825071865,oil_and_gas_plant,Pakistan
+900,Ashuganj power station,Ashuganj Power Station Company LTD (APSCL),24.0433323,91.0142544,oil_and_gas_plant,Bangladesh
+901,Eagle Point power generation,Rockland Capital,39.8746,-75.1592,oil_and_gas_plant,United States
+902,Gadsden Steam Plant,Alabama Power Co,34.0128,-85.9708,oil_and_gas_plant,United States
+903,Rupsha power station,North-West Power Generation Co Ltd,22.853987,89.551191,oil_and_gas_plant,Bangladesh
+904,Singapore Chemical power station,ExxonMobil Corp,1.2680014,103.6889801,oil_and_gas_plant,Singapore
+905,Silver Creek power station,Cooperative Energy,31.6004,-89.9468,oil_and_gas_plant,United States
+906,Xiangtou International Hengdong Gas power station,Hunan Xiangtou International Investment Co Ltd,26.99712,112.78137,oil_and_gas_plant,China
+907,Fuling Baitao power station,Chongqing Baitao Gas Turbine Thermal Power Co Ltd,29.5473846266348,107.479795504131,oil_and_gas_plant,China
+908,Okeechobee Clean energy center,Florida Power & Light Co,27.634167,-80.79111,oil_and_gas_plant,United States
+909,Midway Sunset cogeneration power station,AERA Energy LLC,35.2269,-119.6294,oil_and_gas_plant,United States
+910,Big Cajun II Power Plant,Louisiana Generating LLC,30.7261,-91.3692,oil_and_gas_plant,United States
+911,Chongqing Wujiang Gas power station,Chongqing Wujiang Electric Power Co Ltd,29.5300561088134,108.770270755428,oil_and_gas_plant,China
+912,Huaneng Beijing power station,Huaneng Beijing Thermal Electricity Co Ltd,39.885361,116.53537,oil_and_gas_plant,China
+913,Karkey 019 power station,Karpowership Brasil Energia Ltda,-22.936126,-43.834043,oil_and_gas_plant,
+914,Songdo CHP power station,Incheon Total Energy Co Ltd,37.369922,126.640165,oil_and_gas_plant,
+915,Ventanilla power station,Enel Generación Perú SAA,-11.935756,-77.118021,oil_and_gas_plant,Peru
+916,Termoberrío power station,Sociedad Minera de Santander,6.443678,-74.384076,oil_and_gas_plant,Colombia
+917,Hanneng Power Tunkou Gas power station,Wuhan Hanneng Electric Power Development Co Ltd,30.470794,114.203538,oil_and_gas_plant,China
+918,Chilca power station,ENGIE Energía Perú SA,-12.502428,-76.729021,oil_and_gas_plant,Peru
+919,Al Qayyarah power station,Ministry of Electricity (Iraq),35.78818,43.2521,oil_and_gas_plant,Iraq
+920,Gediz power station,HG Enerji Elektrik Uretimi Sanayi Ticaret AŞ,38.9652,29.3653,oil_and_gas_plant,
+921,China Resources Zhuhai Distributed Gas power station,China Resources Power (Zhuhai) Smart Energy Co Ltd,22.149907,113.14181,oil_and_gas_plant,China
+922,Rauzan power station,Bangladesh Power Development Board (BPDB),22.4020739,91.9394318,oil_and_gas_plant,Bangladesh
+923,Hill Top energy center,Hill Top Energy Center LLC,39.894212,-79.9382,oil_and_gas_plant,United States
+924,EPP Altos I power station,Evolution Power Partners SA,-5.035094,-42.466079,oil_and_gas_plant,Brazil
+925,Little Gypsy power station,Entergy Louisiana LLC,30.005067,-90.46169,oil_and_gas_plant,United States
+926,Laverton North power station,Snowy Hydro Ltd,-37.84163,144.78873,oil_and_gas_plant,Australia
+927,Santa Rosa power station,Enel Generación Perú SAA,-12.039528,-77.010565,oil_and_gas_plant,Peru
+928,Bataan power station,Panasia Energy Inc,14.55103,120.59753,oil_and_gas_plant,Philippines
+929,Gregory power facility,Gregory Power Partners LLC,27.88929,-97.25842,oil_and_gas_plant,United States
+930,"Shandong DADI Salt Chemical Group Co.,Ltd. power project",Shandong DADI Salt Chemical Group Co Ltd,37.03908,119.04728,oil_and_gas_plant,China
+931,Zouk power plant,Electricity Of Lebanon,33.970651,35.603934,oil_and_gas_plant,Lebanon
+932,Northside Generating Station,JEA,30.4172,-81.5525,oil_and_gas_plant,United States
+933,Mohammedia 2 Power Plant,Office National de l'Electricité et de l'Eau Potable (Morocco),33.68086,-7.4363,oil_and_gas_plant,Morocco
+934,Santa Elena II power station,Corporación Nacional de Electricidad EP,-2.242021,-80.846375,oil_and_gas_plant,Ecuador
+935,Hinds energy facility,Entergy Mississippi LLC,32.378969,-90.21991,oil_and_gas_plant,United States
+936,Yudean Xinhui Gas power station,Guangdong Yudean Xinhui Power Generation Co Ltd,22.253854,113.066065,oil_and_gas_plant,China
+937,Hirgigo power plant,Eritrean Electricity Corp,15.579,39.44277,oil_and_gas_plant,Eritrea
+938,Cap des Biches power station,West Africa Energy,14.722293,-17.300905,oil_and_gas_plant,Senegal
+939,Olive power station,City of Burbank Water and Power,34.1764,-118.3147,oil_and_gas_plant,United States
+940,Tarasht power plant,Thermal Power Plants Holding Co,35.708056,51.345556,oil_and_gas_plant,"Iran, Islamic Republic of"
+941,Wansley Unit 9 power station,Municipal Electric Authority of Georgia,33.4083,-85.0403,oil_and_gas_plant,United States
+942,Eddystone Generating Station,Exelon Power Corp,39.858,-75.323,oil_and_gas_plant,United States
+943,CalPeak Power Panoche Peaker Plant,CalPeak Power - Panoche LLC,36.652905,-120.5806,oil_and_gas_plant,United States
+944,Garri 1 Power Plant,Sudanese Thermal Power Generating Co Ltd,16.120165,32.691961,oil_and_gas_plant,Sudan
+945,Iberafrica power station,Iberafrica Power (EA) Ltd,-1.2935766522408,36.8198504818748,oil_and_gas_plant,Kenya
+946,Cove Point LNG Terminal power station,Dominion Cove Point LNG LP,38.385456,-76.4098,oil_and_gas_plant,United States
+947,Leichhardt power station,APA Group,-20.7833,139.4862,oil_and_gas_plant,Australia
+948,New South Tripoli Gas power station,General Electricity Company of Libya,32.874532,13.19596,oil_and_gas_plant,Libya
+949,UTE Central Termica La Tablada power station,Administracion Nacional De Usinas y Trasmisiones Eléctricas,-34.82643,-56.235589,oil_and_gas_plant,Uruguay
+950,Al Qurayyat power plant,Saudi Electricity Co,31.254164,37.43021,oil_and_gas_plant,Saudi Arabia
+951,Jack Watson Generating Plant,Mississippi Power Co,30.4392,-89.0286,oil_and_gas_plant,United States
+952,Newman (AU) power station,Alinta Energy,-23.34373,119.70905,oil_and_gas_plant,Australia
+953,Candelaria power plant,Endesa SA,28.38139,-16.35801,oil_and_gas_plant,Spain
+954,Qeshm (Pasargard) power station,Qeshm Movalled Co,26.9279,55.9629,oil_and_gas_plant,"Iran, Islamic Republic of"
+955,Tokyo Gas Yokosuka power station,Tokyo Gas Co Ltd,35.249177,139.65596,oil_and_gas_plant,Japan
+956,Manesar Captive power plant,Maruti Suzuki India Ltd,28.3664586338105,76.8902240355643,oil_and_gas_plant,India
+957,Zhejiang Zhenhai power plant,Zhejiang Zheneng Zhenhai Natural Gas Power Generation Co Ltd,30.023696,121.662627,oil_and_gas_plant,
+958,McCook power station,Nebraska Public Power District,40.2214,-100.6508,oil_and_gas_plant,United States
+959,Kivuwatt power plant,ContourGlobal PLC,-2.06801535043973,29.3197199589085,oil_and_gas_plant,Rwanda
+960,Chattahoochee energy facility,Oglethorpe Power Corp,33.4072,-85.0386,oil_and_gas_plant,United States
+961,Batubara power station,PT Hanlim Power Corp,3.285553,99.508176,oil_and_gas_plant,Indonesia
+962,State Grid Lasa Gas power station,Dongga Power Generation Company of State Grid Tibet Electric Power Co Ltd,29.6516,90.95942,oil_and_gas_plant,China
+963,Al Wajh power station,Saudi Electricity Co,26.2235,36.49315,oil_and_gas_plant,Saudi Arabia
+964,Fenix power station,Fénix Power Perú SA,-12.543746,-76.735523,oil_and_gas_plant,Peru
+965,Priolo Gargallo power station,Enel Produzione SpA,37.14,15.2159,oil_and_gas_plant,Italy
+966,Huarun Guangdong Zhanjiang Donghaidao power station,Huarun Power Investment Co Ltd,21.230003,110.363512,oil_and_gas_plant,China
+967,Global Power Synergy Central Utility Plant 1,Global Power Synergy PCL,12.7014,101.1258,oil_and_gas_plant,Thailand
+968,Tiplyang Kaligandaki hydroelectric plant,Himalayan Infrastructure Fund,28.4581,83.6242,hydro_power_low,Nepal
+969,Aden power station,Masila Petroleum Exploration and Production Co,12.824678150741,44.9190379603349,oil_and_gas_plant,Yemen
+970,Novo Tempo Barcarena power station,Centrais Elétricas Barcarena SA,-1.548658,-48.745631,oil_and_gas_plant,Brazil
+971,Cleveland County generating facility,Southern Power Co,35.170547,-81.41665,oil_and_gas_plant,United States
+972,Cottonwood Energy Project,Cleco Corporate Holdings LLC,30.2588,-93.7353,oil_and_gas_plant,United States
+973,Asaluyeh power station,MAPNA Assaluyeh Power Plant Company PJSC,27.4068,52.7818,oil_and_gas_plant,"Iran, Islamic Republic of"
+974,Avon power station,Avon Peaking Power (RF) Pty Ltd,-29.418913,31.157693,oil_and_gas_plant,South Africa
+975,Kyaukse power plant,APR Energy Ltd,21.6077396145104,96.1374092025406,oil_and_gas_plant,
+976,Kashipur (Gama) power station,Gama Infraprop Private Limited (GIPL),29.141711,78.963497,oil_and_gas_plant,India
+977,Coyote Clean power project,Southern Ute Indian Tribe Growth Fund,37.2559182548915,-107.633065263039,oil_and_gas_plant,United States
+978,Sichuan Investment Group Ziyang power station,Sichuan Investment (Ziyang) Gas Power Generation Co Ltd,30.078214,105.423753,oil_and_gas_plant,China
+979,Upper Madi hydroelectric plant,China International Water & Electric,28.2663,84.0821,hydro_power_low,Nepal
+980,Datang Baochang Gas power station,Shenzhen Datang Baochang Gas Power Generation Co Ltd,22.707372,114.027049,oil_and_gas_plant,China
+981,Kerman power station,Kerman Regional Electric Co,30.21,56.7932,oil_and_gas_plant,"Iran, Islamic Republic of"
+982,SPIC Zhengding Gas-fired Thermal power station,State Power Investment Group Zhengding Gas Thermal Power Co Ltd,38.223242,114.650784,oil_and_gas_plant,China
+983,Gresik power station,PT Pembangkitan Jawa Bali,-7.1633,112.6615,oil_and_gas_plant,Indonesia
+984,Solalban Energía power station,Generación Mediterránea SA,-38.773819,-62.289998,oil_and_gas_plant,Argentina
+985,Haifa Refinery power station,Oil Refineries Ltd,32.794356,34.982615,oil_and_gas_plant,Israel
+986,Solad power station,Edeltech,31.818664,34.6611816,oil_and_gas_plant,Israel
+987,Gaziantip Industrial power station,Gaziantep Organize Sanayi Bolgesi,36.9957,37.3841,oil_and_gas_plant,
+988,McClure power station,Modesto Irrigation District,37.62936,-120.9314,oil_and_gas_plant,United States
+989,Super Nyadi hydroelectric plant,Siuri Nyadi Power PVT LTD,28.3794,84.4771,hydro_power_low,Nepal
+990,James E. Rogers Energy Complex,Duke Energy Carolinas LLC,35.22,-81.7594,oil_and_gas_plant,United States
+991,La Union power station,Global Luzon Energy Development Corp,16.835881,120.342465,oil_and_gas_plant,Philippines
+992,Deepwater Generating Station,Calpine New Jersey Generation LLC,39.6831,-75.5083,oil_and_gas_plant,United States
+993,Guangxi Chiji Iron and Steel Co./Ltd. Gas Power Project,Guangxi Chiji Iron and Steel Co Ltd,23.369089,111.164847,oil_and_gas_plant,China
+994,Joetsu Green power station,Nihon Techno Co Ltd,37.2553178914278,138.393474497586,oil_and_gas_plant,Japan
+995,Emporia energy center,Evergy Kansas Central Inc,38.445883,-96.06525,oil_and_gas_plant,United States
+996,Celso Furtado power station,Petróleo Brasileiro SA,-12.703048,-38.572766,oil_and_gas_plant,Brazil
+997,Dogwood energy facility,City of Independence - (MO),38.7931,-94.3006,oil_and_gas_plant,United States
+998,CELCSA cogeneration power station,ContourGlobal Terra 3 S.à.r.l,18.039337,-94.597207,oil_and_gas_plant,Mexico
+999,PGSEZ power station,Persian Gulf Mineral and Metal Industries Special Economic Zone Co,27.096478,56.041687,oil_and_gas_plant,"Iran, Islamic Republic of"
+1000,Paddys Run power station,Kentucky Utilities Co,38.223592,-85.8417,oil_and_gas_plant,United States
+1001,Kwinana Refinery cogeneration power station,Engie SA,-32.2226,115.7662,oil_and_gas_plant,Australia
+1002,Shobad power station,MahTaab Kahnouj Power Generation Co,28.048333,57.782583,oil_and_gas_plant,"Iran, Islamic Republic of"
+1003,Yanbu 1 power plant,Power and Water Utility Company for Jubail and Yanbu,23.9104,38.32155,oil_and_gas_plant,Saudi Arabia
+1004,SPIC Hengqin Gas Thermal power station,Gener 2,22.127294,113.465923,oil_and_gas_plant,China
+1005,York Generation Company power station,York Generation Co LLC,39.985641,-76.67616,oil_and_gas_plant,United States
+1006,Haripur power station,Bangladesh Power Development Board (BPDB),23.6804015,90.5213497,oil_and_gas_plant,Bangladesh
+1007,Corinto Barge power station,Empresa Energética de Corinto Ltda,12.4883,-87.16735,oil_and_gas_plant,
+1008,Jiangsu Zhenjiang Gas Thermal power station,Jiangsu Zhenjiang Gas Thermal Power Co Ltd,32.12704,119.479817,oil_and_gas_plant,China
+1009,Timbúes power station,ENARSA - Energía Argentina SA,-32.577915,-60.790519,oil_and_gas_plant,Argentina
+1010,Al-Mussaib Gas power plant,Ministry of Electricity (Iraq),32.840997,44.290058,oil_and_gas_plant,Iraq
+1011,Atlas Power Limited power station,Atlas Power Ltd,31.6784050603905,74.0837676878887,oil_and_gas_plant,Pakistan
+1012,Akaz power station,Ministry of Electricity (Iraq),34.316858,41.1602597,oil_and_gas_plant,Iraq
+1013,Dongguan Ningzhou Gas power station,Guangdong Yudean Binhai Bay Energy Co Ltd,23.024253,113.596723,oil_and_gas_plant,China
+1014,Los Llanos power station,Ecopetrol,7.240011,-75.484065,oil_and_gas_plant,Colombia
+1015,Unique Meghnaghat power station,Unique Meghnaghat Power Ltd,23.6162837,90.6133111,oil_and_gas_plant,Bangladesh
+1016,Salalah 2 Independent power plant,Dhofar O&M Co LLC,16.938682,53.972467,oil_and_gas_plant,Oman
+1017,Chongqing Nanchuan power station,China General Nuclear Power Group Co Ltd,29.158123,107.107426,oil_and_gas_plant,China
+1018,Termocentro power station,Rattan Holding SA,6.444481,-74.380683,oil_and_gas_plant,Colombia
+1019,Topolobampo-III power station,Mexico Infrastructure Partners SAPI de CV,25.973403,-108.995058,oil_and_gas_plant,Mexico
+1020,Al Aweer H Power and Desalination Station,Dubai Electricity and Water Authority PJSC,25.1493,55.4268,oil_and_gas_plant,United Arab Emirates
+1021,Tien Lang power station,ExxonMobil Corp,20.741565,106.568259,oil_and_gas_plant,Viet Nam
+1022,Makiminato Thermal power plant,Okinawa Electric Power Co Inc,26.269210095665,127.72014359336,oil_and_gas_plant,Japan
+1023,Doniambo power station,Société Le Nickel SA,-22.2589558948818,166.473190876145,oil_and_gas_plant,France
+1024,Lansing Smith Generating Plant,Gulf Power Co,30.2686,-85.7003,oil_and_gas_plant,United States
+1025,Taltal power station,Enel Generación Chile SA,-24.9888,-70.466,oil_and_gas_plant,Chile
+1026,Sorek power station,Delek Israel,31.9367,34.7118,oil_and_gas_plant,Israel
+1027,Intercession City power station,Duke Energy Florida LLC,28.262778,-81.548611,oil_and_gas_plant,United States
+1028,IOCL Panipat cogeneration power plant,Indian Oil Corp,29.4673088,76.8754461,oil_and_gas_plant,India
+1029,South Tripoli power station,General Electricity Company of Libya,32.776,13.0983,oil_and_gas_plant,Libya
+1030,UMPL Mymensingh power station,United Mymensingh Power Ltd,24.9005032674489,89.9882465477962,oil_and_gas_plant,Bangladesh
+1031,Refinería Antonio Dovalí Jaime power station,Pemex-Transformación Industrial,16.207633,-95.174138,oil_and_gas_plant,Mexico
+1032,Rojana power station,Rojana Power Co Ltd,14.3324,100.6382,oil_and_gas_plant,Thailand
+1033,Castellon Refinery power station,BP PLC,39.9591277538194,-0.0016045273960717,oil_and_gas_plant,Spain
+1034,Asia Symbol (Guangdong) Gas Thermal power station,Asia Symbol (Guangdong) Paper Co Ltd,22.370209,113.056735,oil_and_gas_plant,China
+1035,Jinamar power station,Endesa SA,28.042431,-15.411372,oil_and_gas_plant,Spain
+1036,Marsh Run generation facility,Old Dominion Electric Cooperative,38.5283,-77.7681,oil_and_gas_plant,United States
+1037,Rayburn Energy power station,PPG - O&M Panda Sherman Power LLC,33.582573,-96.61789,oil_and_gas_plant,United States
+1038,Misurata power station,General Electricity Company of Libya,32.332424,15.244122,oil_and_gas_plant,Libya
+1039,Larissa Thermoelectric power station,Larissa Thermoelectric SMSA,39.688611,22.473889,oil_and_gas_plant,Greece
+1040,CCC Tuxpan Phase I power station,Comisión Federal de Electricidad EPE,21.0106971,-97.3300535,oil_and_gas_plant,Mexico
+1041,Sines Polimeros power station,Repsol Polimeros,37.9583,-8.8048,oil_and_gas_plant,Portugal
+1042,Dandenong power station,APA Group,-37.9819414917088,145.209775390035,oil_and_gas_plant,Australia
+1043,Refineria La Rabida power station,Compañía Española de Petróleos SA,37.18568,-6.90083,oil_and_gas_plant,Spain
+1044,McIntosh Combined Cycle Facility,Georgia Power Co,32.3478,-81.1817,oil_and_gas_plant,United States
+1045,Thilawa (Sumitomo) power station,Sumitomo Corp,16.658502,96.262303,oil_and_gas_plant,
+1046,West Gardner power station,Evergy Metro Inc,38.7875,-94.9861,oil_and_gas_plant,United States
+1047,Wirye CHP power station,Narae Energy Service Co Ltd,37.4814057748902,127.151457175367,oil_and_gas_plant,
+1048,Fuenlabrada Mill power station,Iberdrola SA,40.26902,-3.77064,oil_and_gas_plant,Spain
+1049,Huadian Qingyuan Economic Cooperation Zone Gas-fired Thermal power station,Huadian International Power Co Ltd Qingyuan Branch,24.323807,113.397422,oil_and_gas_plant,China
+1050,Al-Khairat-2 power station,Ministry of Electricity (Iraq),32.6509711,43.981639,oil_and_gas_plant,Iraq
+1051,Lumut GB3 power station,Malakoff Corporation Bhd,4.3923,100.5897,oil_and_gas_plant,Malaysia
+1052,Azulão power station,Eneva SA,-2.743816,-58.180234,oil_and_gas_plant,Brazil
+1053,Handley power station,Exelon Power Corp,32.7283,-97.2192,oil_and_gas_plant,United States
+1054,Takoradi (TICO) Thermal power plant,Takoradi International Co Ltd,4.971632,-1.659773,oil_and_gas_plant,Ghana
+1055,Dogwood energy facility,Dogwood Energy LLC,38.7931,-94.3006,oil_and_gas_plant,United States
+1056,Quintero power station,Enel Generación Chile SA,-32.7875,-71.4858,oil_and_gas_plant,Chile
+1057,AES Paraná power station,AES Argentina Generación SA,-33.354957,-60.171573,oil_and_gas_plant,Argentina
+1058,El Alto power station,ENDE Valle Hermoso SA,-16.5653,-68.1811,oil_and_gas_plant,"Bolivia, Plurinational State of"
+1059,Yahsihan power station,Samsung C&T Corp,39.8419786,33.4879879,oil_and_gas_plant,
+1060,Tanghe Natural Gas Distributed Energy Station,China Power International Development Co Ltd,32.65366,112.829314,oil_and_gas_plant,China
+1061,Carnaúba power station,Eneva SA,-3.78356,-38.80895,oil_and_gas_plant,Brazil
+1062,Rockingham County CT Station,Duke Energy Carolinas LLC,36.3297,-79.8297,oil_and_gas_plant,United States
+1063,Himeji Natural Gas power station,Himeji Natural Gas Power Generation Co,34.8154176,134.6855509,oil_and_gas_plant,Japan
+1064,Sunrise power station,Sunrise Power Co LLC,35.2097,-119.585,oil_and_gas_plant,United States
+1065,Phu My 1 Thermal power station,EVNGENCO 3 Co,10.6056053,107.0345113,oil_and_gas_plant,Viet Nam
+1066,Mokran Power and Steam power plant,Mokran Abniroo Co,25.296521,60.641755,oil_and_gas_plant,"Iran, Islamic Republic of"
+1067,Hulhumale power station,State Electric Co Ltd,4.20408,73.538049,oil_and_gas_plant,
+1068,Los Angeles Refinery Wilmington power station,Phillips 66 - Los Angeles,33.7686,-118.2867,oil_and_gas_plant,United States
+1069,Mirsarai Chattogram power station,General Electric Co,22.7773617656972,91.5667097806371,oil_and_gas_plant,Bangladesh
+1070,Owendo Nouveau power plant,Gabon Power Co,0.290793959692326,9.50891722554723,oil_and_gas_plant,Gabon
+1071,Himchuli Dordi hydroelectric plant,Peoples Hydropower Company Private LTD (PHCL),28.3274,84.5792,hydro_power_low,Nepal
+1072,Dulces Nombres II power station,Iberdrola Generación México,25.717494,-100.0959,oil_and_gas_plant,Mexico
+1073,La Vega power station,Naturgy Energy Group SA,19.24821,-70.55008,oil_and_gas_plant,Dominican Republic
+1074,Effingham County Power Project,Oglethorpe Power Corp,32.277252,-81.28441,oil_and_gas_plant,United States
+1075,Chuncheon CHP power station,Korea East-West Power Co Ltd,37.875853,127.710374,oil_and_gas_plant,
+1076,Chungchia power station,Chung Chia Power Co Ltd,24.227391,120.4699,oil_and_gas_plant,"Taiwan, Province of China"
+1077,Kelanitissa Combined Cycle power plant,Ceylon Electricity Board,6.95276939940149,79.8791013398,oil_and_gas_plant,Sri Lanka
+1078,Lake Side power plant,PacifiCorp,40.331667,-111.7542,oil_and_gas_plant,United States
+1079,Arcos de la Frontera power station,Iberdrola Generacion SA,36.6721,-5.8164,oil_and_gas_plant,Spain
+1080,Galveston power station 4,Marathon Petroleum Co LP,29.378164,-94.92195,oil_and_gas_plant,United States
+1081,Bajío cogeneration power station,Iberdrola Generación México,20.380952,-99.977705,oil_and_gas_plant,Mexico
+1082,Canelillo power station,Generadora Canelillo SpA,-31.324229,-71.594518,oil_and_gas_plant,Chile
+1083,Exelon LaPorte generating station,TotalEnergies SE,29.7028,-95.0718,oil_and_gas_plant,United States
+1084,Melilla power station,Endesa SA,35.290441,-2.937943,oil_and_gas_plant,Spain
+1085,Tracy power station,NV Energy,39.5625,-119.525,oil_and_gas_plant,United States
+1086,North power station,Bermuda Electric Light Co Ltd,32.300409991177,-64.7918901518896,oil_and_gas_plant,United Kingdom
+1087,Jiangsu Changzhou Suyuan power station,Changzhou Suyuan Power Generation Co Ltd,31.842036,119.963182,oil_and_gas_plant,China
+1088,China Resources Power Dongguan Dalang Distributed Energy Station,China Resources Power Investment Co Ltd,22.9036123963779,113.953100407385,oil_and_gas_plant,China
+1089,Gumi Combined Cycle power plant,Korea Western Power Co Ltd,36.20735,128.3555,oil_and_gas_plant,
+1090,Termoceará power station,Petróleo Brasileiro SA,-3.6925,-38.871667,oil_and_gas_plant,Brazil
+1091,Aioi power station,Kansai Electric Power Co,34.7748090084682,134.457245856406,oil_and_gas_plant,Japan
+1092,AES Colón power station,AES Panamá SRL,9.337361,-79.909361,oil_and_gas_plant,Panama
+1093,Osawatomie power station,Evergy Metro Inc,38.532161,-94.90263,oil_and_gas_plant,United States
+1094,Hebei Yanshan Iron and Steel Group Co./Ltd. Gas Power Project,Hebei Yanshan Iron and Steel Group Co Ltd,39.92446,118.672858,oil_and_gas_plant,China
+1095,Karkey 013 power station,Karpowership Brasil Energia Ltda,-22.930485,-43.857014,oil_and_gas_plant,
+1096,Huntington Beach generating station,AES Huntington Beach LLC,33.645618,-117.9794,oil_and_gas_plant,United States
+1097,Keys energy center,Arclight Energy Partners Fund VII LP,38.695519,-76.82779,oil_and_gas_plant,United States
+1098,Watson cogeneration power station,Tesoro SoCal Cogeneration LLC,33.816647,-118.2448,oil_and_gas_plant,United States
+1099,Abuja power station,NNPC Ltd,8.939696,7.076826,oil_and_gas_plant,Nigeria
+1100,Jubail cogeneration power plant,Abu Dhabi National Energy Company PJSC,27.025656,49.520108,oil_and_gas_plant,Saudi Arabia
+1101,Baixada Fluminense power station,Petróleo Brasileiro SA,-22.723437,-43.642327,oil_and_gas_plant,Brazil
+1102,Malacas power station,Enel Generación Piura SA,-4.538416,-81.26441,oil_and_gas_plant,Peru
+1103,Naepo Green Energy power station,Naepo Green Energy Co Ltd,36.654944,126.6765,oil_and_gas_plant,
+1104,Dos Bocas power station,Comisión Federal de Electricidad EPE,19.085597,-96.146389,oil_and_gas_plant,Mexico
+1105,DeBary power station,Duke Energy Florida LLC,28.903863,-81.33233,oil_and_gas_plant,United States
+1106,Nakhchivan power station,AzerEnerji JSC,39.15908,45.4866,oil_and_gas_plant,Azerbaijan
+1107,Linoperamata power station,Public Power Corporation SA,35.34084,25.05105,oil_and_gas_plant,Greece
+1108,Khimti I hydroelectric plant,SN Power,27.4744,86.1011,hydro_power_low,Nepal
+1109,Southwestern power station,Public Service Company of Oklahoma,35.1009,-98.3524,oil_and_gas_plant,United States
+1110,Bilecik power station,Dedeli Dogalgaz Elektrik Üretim ve Ticaret AŞ,40.00429,29.92227,oil_and_gas_plant,
+1111,Kahrama power station,Kahrama SpA,35.806393,-0.247637,oil_and_gas_plant,Algeria
+1112,Jamalco power station,New Fortress Energy Inc,17.9311,-77.2478,oil_and_gas_plant,Jamaica
+1113,Sorek PPP power station,Israel Electric Corp Ltd,31.943679,34.733145,oil_and_gas_plant,Israel
+1114,GCL Nanjing Lantian Gas Thermal power station,Nanjing China Resources Gas Co Ltd,31.881775,118.83744,oil_and_gas_plant,China
+1115,Shin Kokura thermal power station,Kyushu Electric Power Co Inc,33.906636,130.859892,oil_and_gas_plant,Japan
+1116,South Rhodes power station,Public Power Corporation SA,36.37887,28.01857,oil_and_gas_plant,Greece
+1117,Talbot County Energy power station,Oglethorpe Power Corp,32.5892,-84.6917,oil_and_gas_plant,United States
+1118,Lawrence Energy Center (Kansas),Evergy Kansas Central Inc,39.0072,-95.26917,oil_and_gas_plant,United States
+1119,Zavareh power station,Persian Foulad (Steel) Co,33.39758,52.576494,oil_and_gas_plant,"Iran, Islamic Republic of"
+1120,Guangxi Fangchenggang Steel Base power station,Guangxi Iron and Steel Group Co Ltd,21.548373,108.394749,oil_and_gas_plant,
+1121,Manuel Belgrano I power station,Pampa Energia SA,-34.1845,-59.006,oil_and_gas_plant,Argentina
+1122,Parr GT power station,Dominion Energy South Carolina Inc,34.2642,-81.3308,oil_and_gas_plant,United States
+1123,Taweelah A1 power plant,Total Tractebel Emirates O&M Co SA,24.760381,54.679744,oil_and_gas_plant,United Arab Emirates
+1124,Pointe Jarry power station,Electricité de France SA,16.232339,-61.55409,oil_and_gas_plant,
+1125,Tierra Mojada power station,Saavi Energia,20.551877,-103.07476,oil_and_gas_plant,Mexico
+1126,Az Zour South power plant,Ministry of Electricity and Water and Renewable Energy (Kuwait),28.705483,48.370116,oil_and_gas_plant,Kuwait
+1127,Peninsular de Cogeneracion Mill power station,Peninsular de Cogeneracion SA,40.2709089609757,-3.76810593275028,oil_and_gas_plant,Spain
+1128,T J Labbe Electric Generating power station,Lafayette Utilities System,30.2554,-92.0433,oil_and_gas_plant,United States
+1129,Mauá 3 power station,Centrais Elétricas do Norte do Brasil SA,-3.117405,-59.92955,oil_and_gas_plant,Brazil
+1130,GNA III power station,BP PLC,-21.841185,-41.023657,oil_and_gas_plant,Brazil
+1131,Al-Dur Power and Water Station,ACWA Power Co,25.969278,50.608007,oil_and_gas_plant,Bahrain
+1132,Long Beach Generation power station,Generation Bridge Acquisition LLC,33.7641,-118.2248,oil_and_gas_plant,United States
+1133,Channel Island power station,Territory Generation,-12.555,130.8665,oil_and_gas_plant,
+1134,Datang Jinghai Gas Thermal power station,Datang Shandong Power Generation Co Ltd,38.825366,116.938731,oil_and_gas_plant,China
+1135,Parkeston power station,TransAlta Corp,-30.7375738719912,121.506442381918,oil_and_gas_plant,Australia
+1136,Matarbari Summit power station,Summit-Mitsubishi-GE JV JV,21.5834097,91.9294681,oil_and_gas_plant,Bangladesh
+1137,GCL Kunshan Lantian Distributed Gas power station,Kunshan GCL Lantian Distributed Energy Co Ltd,31.447321,120.903723,oil_and_gas_plant,China
+1138,Manisa OSB cogeneration power station,MOSB Enerji Elektrik Üretim AŞ,38.616891,27.344618,oil_and_gas_plant,
+1139,Guelbs II power plant,Société Nationale Industrielle et Minière SA,22.732925,-12.469976,oil_and_gas_plant,Mauritania
+1140,Wise County power station,Wise County Power Co LLC,33.0583,-97.9103,oil_and_gas_plant,United States
+1141,Asheville Plant,Duke Energy Progress LLC,35.4731,-82.5417,oil_and_gas_plant,United States
+1142,Trimble County power station,Louisville Gas & Electric Co,38.5847,-85.4117,oil_and_gas_plant,United States
+1143,Surkhandarya power station,EDF,37.3767864107491,67.2520938378001,oil_and_gas_plant,Uzbekistan
+1144,Manzanillo Gas & Power power station,Haina Investment Co Ltd,19.694104,-71.732319,oil_and_gas_plant,Dominican Republic
+1145,South Isfahan power station,South Isfahan Power Plant Co,32.258086,51.527243,oil_and_gas_plant,"Iran, Islamic Republic of"
+1146,Vila Ibiza power station,Endesa SA,38.9121396934299,1.42666818103126,oil_and_gas_plant,Spain
+1147,Quarantine power station,Origin Energy Ltd,-34.7792212,138.5205492,oil_and_gas_plant,
+1148,Guangdong Zhaoqing Dawang power station,Guoneng (Zhaoqing) Thermal Power Co Ltd,23.3006449,112.8563297,oil_and_gas_plant,China
+1149,Upper Madi 0 hydroelectric plant,Annapurna Power CO PVT LTD,28.3958,84.1083,hydro_power_low,Nepal
+1150,Nexif Rayong power station,RATCH Group PLC,12.791122,101.246287,oil_and_gas_plant,Thailand
+1151,Ha Tinh Formosa Plastics Steel Complex power station,Formosa Ha Tinh Steel Corp,18.02883,106.44555,oil_and_gas_plant,Viet Nam
+1152,Shanxi Jingang Intelligent Manufacturing Technology Industrial Co./Ltd. power project,Shanxi JINGANG Intelligent Manufacturing Technology Industrial Co Ltd,35.66144,112.875584,oil_and_gas_plant,China
+1153,Haditha power station,Ministry of Electricity (Iraq),32.461723,41.408647,oil_and_gas_plant,Iraq
+1154,Guangdong Huizhou New Material Industrial Park power station,Guangdong Yuedian Huixin Thermal Power Co Ltd,22.903105,114.612131,oil_and_gas_plant,China
+1155,Paramount Energy power plant,Paramount Energy Corporation Ltd,34.7815165401878,33.3259713899772,oil_and_gas_plant,Cyprus
+1156,Merida Kanasín CC power station,Iberdrola México SA de CV,20.9222,-89.5404,oil_and_gas_plant,Mexico
+1157,Gordon Evans energy center,Evergy Kansas South Inc,37.7903,-97.52167,oil_and_gas_plant,United States
+1158,Málaga power station,Naturgy Energy Group SA,36.7495,-4.5631,oil_and_gas_plant,Spain
+1159,Pinjarra power station,Alinta Energy,-32.647305,115.946796,oil_and_gas_plant,Australia
+1160,Middle Tamor hydroelectric plant,Sanima Hydropower,27.416,87.4063,hydro_power_low,Nepal
+1161,Khimti II hydroelectric plant,Peoples Energy LTD,27.5849,86.2237,hydro_power_low,Nepal
+1162,Qian'an City Jiujiang Wire Co./Ltd. power project,Qian'an City Jiujiang Wire Co Ltd,39.947803,118.564647,oil_and_gas_plant,China
+1163,Taban power station,Jam Energy Development Co,31.9512314997741,54.0929260793687,oil_and_gas_plant,"Iran, Islamic Republic of"
+1164,Termomacaé power station,Petróleo Brasileiro SA,-22.305404,-41.876774,oil_and_gas_plant,Brazil
+1165,Baku power station,AzerEnerji JSC,40.4039,49.9157,oil_and_gas_plant,Azerbaijan
+1166,Powership Esra Sultan power station,Karpowership,23.01721,-82.752899,oil_and_gas_plant,
+1167,Ichthys LNG power station,TotalEnergies SE,-12.513898,130.918349,oil_and_gas_plant,Australia
+1168,Palos power station,Naturgy Energy Group SA,37.18448,-6.89279,oil_and_gas_plant,Spain
+1169,Shin Sendai thermal power station,Tohoku Electric Power Co Inc,38.276306,141.040774,oil_and_gas_plant,
+1170,Ras Tanura cogeneration power station,Power Cogeneration Plant Co,26.69358,50.103258,oil_and_gas_plant,Saudi Arabia
+1171,Vadodara Combined Cycle power plant,Gujarat Industries Power Co Ltd,22.3758049,73.0995113,oil_and_gas_plant,India
+1172,Huadian Yangzhou Gas power station,Yangzhou Power Generation Co Ltd,32.42998,119.4759,oil_and_gas_plant,China
+1173,Hassi Messoud Ouest power plant,Société Algérienne de Production de l'Electricité SpA,31.7609,6.023,oil_and_gas_plant,Algeria
+1174,Fergana power station,Thermal Power Stations JSC,40.449089,71.781868,oil_and_gas_plant,Uzbekistan
+1175,Upper Dordi A hydroelectric plant,Liberty Energy Hydropower PVT LTD,28.2495,84.4835,hydro_power_low,Nepal
+1176,Haifa power station,Israel Electric Corp Ltd,32.8118068,35.0196107,oil_and_gas_plant,Israel
+1177,Guoxin Yizheng Gas Thermal power station,Jiangsu Guoxin Yizheng Thermal Power Co Ltd,32.301681,119.186361,oil_and_gas_plant,China
+1178,Bushy Park Combustion Turbine Facility,Dominion Energy South Carolina Inc,33.014915,-79.930045,oil_and_gas_plant,United States
+1179,Attock Gen Limited power station (AGL),Attock Gen Ltd,33.5563305336327,73.0732588538384,oil_and_gas_plant,Pakistan
+1180,Ashdod Desalination power plant,Shapir Engineering and Industry Ltd,31.832732,34.655591,oil_and_gas_plant,Israel
+1181,Kais power station,Société Algérienne de Production de l'Electricité SpA,35.550316,6.869692,oil_and_gas_plant,Algeria
+1182,Bursa Korteks power station,Zorlu Enerji Elektrik Uretim AŞ,40.2705,29.0739,oil_and_gas_plant,
+1183,Sarqala power plant,Kurdistan's Ministry of Electricity,36.4103,44.3872,oil_and_gas_plant,Iraq
+1184,Kiamichi energy facility,Kiowa Power Partners LLC,34.6831,-95.9349,oil_and_gas_plant,United States
+1185,Topolobampo II power station,Mexico Infrastructure Partners SAPI de CV,25.973923,-108.991814,oil_and_gas_plant,Mexico
+1186,Tehama Central power station,Saudi Electricity Co,19.099353,41.158411,oil_and_gas_plant,Saudi Arabia
+1187,Hassyan Clean-Coal Power Project,Dubai Electricity and Water Authority PJSC,25.2048,55.2708,oil_and_gas_plant,United Arab Emirates
+1188,Termocamaçari power station,Petróleo Brasileiro SA,-12.66711,-38.320997,oil_and_gas_plant,Brazil
+1189,Sugen Combined Cycle power plant,Torrent Power Ltd,21.3395,72.9889,oil_and_gas_plant,India
+1190,BASF Freeport Works power station,BASF (US) Corp,29.002,-95.394,oil_and_gas_plant,United States
+1191,Energética Suape II SA power station,Energética Suape II SA,-8.351993,-35.022973,oil_and_gas_plant,Brazil
+1192,King City power plant,Calpine King City Cogeneration LLC,36.225,-121.1278,oil_and_gas_plant,United States
+1193,Guangzhou Zengcheng Wanglong Gas Thermal power station,Guangzhou Development Power Technology Co Ltd,23.09291,113.564884,oil_and_gas_plant,China
+1194,Huntly power station,Genesis Energy Ltd,-37.5444696,175.148805,oil_and_gas_plant,New Zealand
+1195,Puxing Clean Energy Deneng power station,Zhejiang Deneng Gas Power Generation Co Ltd,30.555568,120.006221,oil_and_gas_plant,China
+1196,Deir Ali power station,Public Establishment of Electricity Generation,33.268416,36.328777,oil_and_gas_plant,Syrian Arab Republic
+1197,L V Sutton Combined Cycle power station,Duke Energy Progress LLC,34.283056,-77.98528,oil_and_gas_plant,United States
+1198,Aluminium Bahrain (ALBA) power station,Aluminium Bahrain BSC,26.092532,50.597067,oil_and_gas_plant,Bahrain
+1199,NRG THW GT Electric Generating Station,NRG THW GT LLC,29.943892,-95.531254,oil_and_gas_plant,United States
+1200,Higashi Niigata thermal power station,Tohoku Electric Power Co Inc,38.000014,139.241601,oil_and_gas_plant,Japan
+1201,Porsud I power station,Karpowership Brasil Energia Ltda,-20.940069,-43.802578,oil_and_gas_plant,Brazil
+1202,Green Power 2 power station,Marathon Petroleum Co LP,29.378097,-94.93277,oil_and_gas_plant,United States
+1203,Keppel Merlimau cogeneration power station,Keppel Merlimau Cogen Pte Ltd,1.2824,103.675,oil_and_gas_plant,Singapore
+1204,Setubal Mill power station,The Navigator Co,40.686,-8.5894,oil_and_gas_plant,Portugal
+1205,Midway Peaking power station,Midway Peaking LLC,36.654114,-120.5797,oil_and_gas_plant,United States
+1206,Dangjin Combined Cycle power station,GS EPS,36.959,126.7825,oil_and_gas_plant,
+1207,Hrazdan power station,Tashir Group,40.56950825,44.75277533,oil_and_gas_plant,Armenia
+1208,Juiz de Fora power station,Petróleo Brasileiro SA,-21.690483,-43.456807,oil_and_gas_plant,Brazil
+1209,Datang Hunan Xiangtan power station,Datang Huayin Electric Power Co Ltd,27.829514,112.96312,oil_and_gas_plant,China
+1210,Sweeny cogeneration facility,Sweeny Cogeneration LP,29.0728,-95.745,oil_and_gas_plant,United States
+1211,Cogen Salamanca power station,Comisión Federal de Electricidad EPE,20.578846,-101.164444,oil_and_gas_plant,Mexico
+1212,Cope Station,Dominion Energy South Carolina Inc,33.3644,-81.03,oil_and_gas_plant,United States
+1213,Ain Arnet power plant,Société Algérienne de Production de l'Electricité SpA,36.157607,5.206548,oil_and_gas_plant,Algeria
+1214,Kimitsu power station,Kimitsu Cooperative Thermal Power Co,35.3692848489368,139.861489804004,oil_and_gas_plant,
+1215,Karpowership Saldanha power station,Karpowership South Africa,-33.005977,17.980431,oil_and_gas_plant,
+1216,Linyi Iron and Steel Investment Group Special Steel Co./Ltd. power project,Linyi Iron and Steel Investment Group Special Steel Co Ltd,35.152213,119.131906,oil_and_gas_plant,China
+1217,Quisqueya 1 power station,Pueblo Viejo Dominicana Jersey 2 Ltd,18.49377,-69.35089,oil_and_gas_plant,Dominican Republic
+1218,Thilawa (Sumitomo) power station,Marubeni Corp,16.658502,96.262303,oil_and_gas_plant,
+1219,Mansfield Mill power station,IPC-Mansfield Mill,32.1575,-93.5562,oil_and_gas_plant,United States
+1220,Aleppo power plant,Public Establishment of Electricity Generation,36.175527,37.437828,oil_and_gas_plant,Syrian Arab Republic
+1221,South Bangkok power station,Electricity Generating Authority of Thailand,13.617,100.559,oil_and_gas_plant,Thailand
+1222,Wasset power station,Ministry of Electricity (Iraq),32.77497,45.08464,oil_and_gas_plant,Iraq
+1223,Puerto Sandino LNG power plant,New Fortress Energy Inc,12.20003,-86.732137,oil_and_gas_plant,Nicaragua
+1224,Elk Station power plant,Golden Spread Electric Cooperative Inc,33.865,-101.8433,oil_and_gas_plant,United States
+1225,Huadian Shijiazhuang Thermal power station,Hebei Huadian Shijiazhuang Thermal Power Co Ltd,38.06214,114.523836,oil_and_gas_plant,China
+1226,Oakey power station,Shell PLC,-27.418261,151.6788311,oil_and_gas_plant,Australia
+1227,Bin Qasim power station,K-Electric,24.785291,67.360261,oil_and_gas_plant,Pakistan
+1228,Antigua Power power station,Antigua Power Co Ltd,17.126187,-61.758645,oil_and_gas_plant,
+1229,Richards Bay (Eskom) power station,Eskom Holdings SOC Ltd,-28.770971,31.976485,oil_and_gas_plant,South Africa
+1230,Sorrento power station,Central Térmica Sorrento SA,-32.90519,-60.680324,oil_and_gas_plant,Argentina
+1231,Taean power station,Korea Western Power Co Ltd,36.9055681,126.2346268,oil_and_gas_plant,
+1232,Manuel Belgrano I power station,AES Argentina Generación SA,-34.1845,-59.006,oil_and_gas_plant,Argentina
+1233,Cimarron River power station,Sunflower Electric Power Corporation Inc,37.1611,-100.7619,oil_and_gas_plant,United States
+1234,Hebei Jinxi Iron﹠Steel Group Co./Ltd. Gas Power Project,Hebei Jinxi Iron & Steel Group Co Ltd,40.211122,118.221295,oil_and_gas_plant,China
+1235,Ndola Energy (HFO) power station,GL Africa Energy UK,-13.0147663927977,28.6616693179398,oil_and_gas_plant,Zambia
+1236,Redbud power plant,Oklahoma Gas and Electric Co,35.6856,-97.2264,oil_and_gas_plant,United States
+1237,Payra LNG power station,Siemens Energy AG,21.999205,90.305597,oil_and_gas_plant,Bangladesh
+1238,Dan River Steam Station,Duke Energy Carolinas LLC,36.4862,-79.7208,oil_and_gas_plant,United States
+1239,Punta Grande power station,Endesa SA,28.97001,-13.54123,oil_and_gas_plant,Spain
+1240,Al-Khairan power plant,Kuwait Authority for Partnership Projects (KAPP),28.696601,48.373941,oil_and_gas_plant,Kuwait
+1241,Shin Oita power station,Kyushu Electric Power Co Inc,33.26275,131.707746,oil_and_gas_plant,
+1242,Alenakiri power plant,Telemenia Ltd,0.314482114379533,9.52095388316326,oil_and_gas_plant,Gabon
+1243,Priolo-Melili power station,ERG SpA,37.17949,15.19632,oil_and_gas_plant,Italy
+1244,Winchester power park,Lower Colorado River Authority,30.0381,-96.9875,oil_and_gas_plant,United States
+1245,Baalback II power plant,Electricity Of Lebanon,34.004909,36.212005,oil_and_gas_plant,Lebanon
+1246,Jesus Soares Pereira power station,Petróleo Brasileiro SA,-5.3825,-36.818611,oil_and_gas_plant,Brazil
+1247,Cruzeiro do Sul D power station,Energias do Acre Spe Ltda,-7.598614,-72.67152,oil_and_gas_plant,Brazil
+1248,Quang Tri Combined Cycle power station,Vietnam Oil and Gas Group Co,16.7775351,107.3279113,oil_and_gas_plant,Viet Nam
+1249,Payra LNG power station,BP PLC,21.999205,90.305597,oil_and_gas_plant,Bangladesh
+1250,Dock Sud power station,YPF Luz SA,-34.6529,-58.3419,oil_and_gas_plant,Argentina
+1251,Sepé Tiarajú power station,Petróleo Brasileiro SA,-29.874421,-51.147048,oil_and_gas_plant,Brazil
+1252,Garri 4 Power Plant,Sudanese Thermal Power Generating Co Ltd,16.117416,32.701705,oil_and_gas_plant,Sudan
+1253,Algonquin Power Sanger power station,Algonquin Power Sanger LLC,36.6842,-119.5522,oil_and_gas_plant,United States
+1254,San Nicolás power station,AES Argentina Generación SA,-33.35492,-60.172917,oil_and_gas_plant,Argentina
+1255,Djelfa power station,Société Algérienne de Production de l'Electricité SpA,35.439261,2.96076,oil_and_gas_plant,Algeria
+1256,Escombreras Iberdrola power station,Iberdrola SA,37.5647,-0.95132,oil_and_gas_plant,Spain
+1257,H L Culbreath Bayside power station,Tampa Electric Co,27.9072,-82.4231,oil_and_gas_plant,United States
+1258,Cabora Bassa power station,Tatanga Energy,-16.018294,30.582954,oil_and_gas_plant,Zimbabwe
+1259,Unosugen Combined Cycle power plant,Torrent Power Ltd,21.3413,72.98899999999999,oil_and_gas_plant,India
+1260,Patuakhali power station (Ashuganj),Ashuganj Power Station Company LTD (APSCL),22.056481,90.319494,oil_and_gas_plant,Bangladesh
+1261,Oyster Creek Unit VIII power station,Engie North America,28.9802,-95.342,oil_and_gas_plant,United States
+1262,Kanchan Purbachal power station,Kanchan Purbachal Power Generation Ltd,23.8197605330215,90.5478988801227,oil_and_gas_plant,Bangladesh
+1263,Valle de México power station,Comisión Federal de Electricidad EPE,19.617767,-98.975495,oil_and_gas_plant,Mexico
+1264,Subic diesel power station,One Subic Power Generation Corp,14.8172784474726,120.299933252413,oil_and_gas_plant,Philippines
+1265,Kanudi power station,PNG Power Ltd,-9.43244,147.14278,oil_and_gas_plant,Papua New Guinea
+1266,Manzanillo Gas & Power power station,Shell Gas & Power Development BV,19.694104,-71.732319,oil_and_gas_plant,Dominican Republic
+1267,Nong Saeng power station,Gulf JP Nong Saeng Co Ltd,14.4417,100.7756,oil_and_gas_plant,Thailand
+1268,IOCL Panipat Naphtha Cracker Captive cogeneration power plant,Indian Oil Corp,29.4523876322158,76.8726649403211,oil_and_gas_plant,India
+1269,Berkprai cogeneration power station,Rajburi Sugar,13.8461824,99.6535834,oil_and_gas_plant,Thailand
+1270,THUMS power station,THUMS Long Beach Co,33.7684,-118.2141,oil_and_gas_plant,United States
+1271,Mutundwe power station,Uganda Electricity Transmission Co Ltd,0.293635672167705,32.533888377849,oil_and_gas_plant,Uganda
+1272,Pakgen Power Limited power plant,Pakgen Power Limited power plant,30.1728709296862,70.9934448436256,oil_and_gas_plant,Pakistan
+1273,Geramar I (Antiga Tocantinópolis) power station,Geradora de Energia do Maranhão SA,-3.566189,-44.558718,oil_and_gas_plant,Brazil
+1274,Jarry Sud power station,Electricité de France SA,16.233079,-61.555351,oil_and_gas_plant,
+1275,SPS Faisalabad power station,Northern Power Generation Co Ltd,31.445653,73.138347,oil_and_gas_plant,Pakistan
+1276,Paju (KDHC) power station,Korea District Heating Corp,37.758291,126.781498,oil_and_gas_plant,
+1277,Tanjung Priok power station,PT Indonesia Power,-6.1102,106.8671,oil_and_gas_plant,Indonesia
+1278,Abqaiq cogeneration power station,Power Cogeneration Plant Co,25.931134,49.684401,oil_and_gas_plant,Saudi Arabia
+1279,Diamantina power station,APA Group,-20.784184,139.4832,oil_and_gas_plant,Australia
+1280,Porto Empedocle power station,Enel Produzione SpA,37.28757,13.52117,oil_and_gas_plant,Italy
+1281,Manzanillo Energy power station,Coastal Petroleum Dominicana SA,19.69369,-71.734862,oil_and_gas_plant,Dominican Republic
+1282,Amman East power plant,AES Jordan PSC,31.899056,36.079778,oil_and_gas_plant,Jordan
+1283,Tripura Combined Cycle power plant,ONGC Tripura Power Co Ltd,23.4987,91.4385,oil_and_gas_plant,India
+1284,Marion Plant,Southern Illinois Power Cooperative Inc,37.619747,-88.95311,oil_and_gas_plant,United States
+1285,Gobo power station,Kansai Electric Power Co,33.8601900744151,135.152454398725,oil_and_gas_plant,
+1286,Global II power station,Companhia Energética Candeias,-12.73021,-38.481217,oil_and_gas_plant,Brazil
+1287,Kedah (THB Power) power station,THB Power Sdn Bhd,5.812172,100.495477,oil_and_gas_plant,Malaysia
+1288,Hagood power station,Dominion Energy South Carolina Inc,32.8265,-79.9634,oil_and_gas_plant,United States
+1289,Jhulda power plant,ACORN Infrastructure Services Ltd,22.2970913784329,91.805392509302,oil_and_gas_plant,Bangladesh
+1290,Larbaa power plant,Société Algérienne de Production de l'Electricité SpA,36.598949,3.137429,oil_and_gas_plant,Algeria
+1291,Shin Oita power station,Kyushu Electric Power Co Inc,33.26275,131.707746,oil_and_gas_plant,
+1292,Son My I power station,Kyushu Electric Power Co Inc,10.65008,107.68464,oil_and_gas_plant,Viet Nam
+1293,Tuxpan III and IV power station,Naturgy México SA de CV,20.838615,-97.255799,oil_and_gas_plant,Mexico
+1294,Pacífico Acajutla power station,Energía del Pacífico,13.583385,-89.828073,oil_and_gas_plant,El Salvador
+1295,Paradip Refinery Captive power station,Indian Oil Corp,20.2500036348603,86.5975102685653,oil_and_gas_plant,India
+1296,Orion Gagnagar power station,Digital Power & Associates Ltd,23.5982816275421,90.4852421446954,oil_and_gas_plant,Bangladesh
+1297,Arish power station,East Delta Electricity Production Co,31.115613,33.683321,oil_and_gas_plant,Egypt
+1298,Bahia de Algeciras power station,Repsol SA,36.1829,-5.3905,oil_and_gas_plant,Spain
+1299,Caçapava power station,Natural Energia Participações Ltda,-23.078202,-45.672728,oil_and_gas_plant,Brazil
+1300,Datang Rugao Natural Gas Distribution power plant,China Datang Corp,32.3631,120.71239,oil_and_gas_plant,China
+1301,Ruwais General Utilities Plant,ADNOC Gas Processing,24.13497,52.73181,oil_and_gas_plant,United Arab Emirates
+1302,Hadjret En Nouss power plant,Sharikat Kahraba Hadjret En-Nouss SpA,36.5767,2.0797,oil_and_gas_plant,Algeria
+1303,Tenaska Virginia generating station,Tenaska Virginia Partners LP,37.8667,-78.3813,oil_and_gas_plant,United States
+1304,Maracanau Geradora de Energia SA power plant,Bolognesi Energia SA,-3.85021,-38.55552,oil_and_gas_plant,Brazil
+1305,GNA I power station,SPIC Brasil SA,-21.837217,-41.041983,oil_and_gas_plant,Brazil
+1306,Bouchemma power station,Tunisian Company of Electricity and Gas,33.9181,10.0376,oil_and_gas_plant,Tunisia
+1307,Linyi power station,Huaneng Linyi Power Generation Co Ltd,35.00713,118.32388,oil_and_gas_plant,China
+1308,Garrison energy center,Cobalt Power LLC,39.187195,-75.4994,oil_and_gas_plant,United States
+1309,Remy Jade power station,WattBridge Energy LLC,29.848372,-95.0164,oil_and_gas_plant,United States
+1310,Bogue power station,Jamaica Public Service Co Ltd,18.452093,-77.918276,oil_and_gas_plant,Jamaica
+1311,Jahrom power station,Jahrom Power Generation Development Co,28.7033,53.545,oil_and_gas_plant,"Iran, Islamic Republic of"
+1312,ALSCON Smelter power plant,Aluminium Smelter Company of Nigeria,4.568734,7.573493,oil_and_gas_plant,Nigeria
+1313,Tan Phuoc power station,Vietnam Electricity (EVN),10.5090611,106.1496248,oil_and_gas_plant,Viet Nam
+1314,Middletown Coke Company power station,SunCoke Energy Inc,39.472222,-84.40139,oil_and_gas_plant,United States
+1315,Huaneng Jiangyin Gas Thermal power station,Huaneng Jiangyin Gas Turbine Thermal Power Co Ltd,31.759171,120.385457,oil_and_gas_plant,China
+1316,Taweelah A2 power plant,Total Tractebel Emirates O&M Co SA,24.761042,54.682576,oil_and_gas_plant,United Arab Emirates
+1317,Yoshinoura thermal power plant,Okinawa Electric Power Co Inc,26.2767,127.8132,oil_and_gas_plant,Japan
+1318,Atacama power station,Enel Generación Chile SA,-23.0898,-70.4168,oil_and_gas_plant,Chile
+1319,Maheshkhali power station (BPDB/TNB),Tenaga Nasional Bhd,21.629105,91.9002,oil_and_gas_plant,Bangladesh
+1320,Powertek power station,Powertek Bhd,2.34558654830775,102.050543885781,oil_and_gas_plant,
+1321,Hope Town power station,NTPC Ltd,11.7060719522803,92.736766273015,oil_and_gas_plant,India
+1322,Barry Steam Plant,Alabama Power Co,31.0069,-88.0103,oil_and_gas_plant,United States
+1323,Glow Energy Phase 5 power station,Glow Energy PCL,12.6779,101.1356,oil_and_gas_plant,Thailand
+1324,Manzanillo Power Land power station,Energía 2000 SRL,19.68089,-71.69965,oil_and_gas_plant,Dominican Republic
+1325,GNA II power station,BP PLC,-21.838643,-41.015863,oil_and_gas_plant,Brazil
+1326,Darlington County power station,Duke Energy Progress LLC,34.4185,-80.1657,oil_and_gas_plant,United States
+1327,Nearman Creek power station,City of Kansas City - (KS),39.1681,-94.6975,oil_and_gas_plant,United States
+1328,Al- Yusufiyah power plant,Ministry of Electricity (Iraq),33.091434,44.116158,oil_and_gas_plant,Iraq
+1329,Shin Goi power station,ENEOS Corp,35.546922,140.072506,oil_and_gas_plant,Japan
+1330,Cumberland (NJ) power station,Calpine New Jersey Generation LLC,39.3757,-74.9654,oil_and_gas_plant,United States
+1331,Nanko power station,Kansai Electric Power Co,34.616112,135.404557,oil_and_gas_plant,
+1332,San Roque 1 power station,Endesa SA,36.19564,-5.41363,oil_and_gas_plant,Spain
+1333,Grati power station,PT Indonesia Power,-7.6517,113.0244,oil_and_gas_plant,Indonesia
+1334,Raccoon Creek energy center,Union Electric Co,38.6996,-88.5392,oil_and_gas_plant,United States
+1335,Lombok Peaker power station,PT PLN (Persero),-8.58958,116.074409,oil_and_gas_plant,Indonesia
+1336,Auraiya Combined Cycle power plant,NTPC Ltd,26.6282,79.5286,oil_and_gas_plant,India
+1337,Tipitapa power station,Tipitapa Power Co Ltd,12.1698,-86.1052,oil_and_gas_plant,Nicaragua
+1338,Kazeroon power station,South Fars Power Generation Management Co,29.562836,51.695857,oil_and_gas_plant,"Iran, Islamic Republic of"
+1339,Huangtai power station,Huaneng Jinan Huangtai Power Generation Co Ltd,36.70776,117.08796,oil_and_gas_plant,China
+1340,Kimanis power station,Kimanis Power Sdn Bhd,5.6483,115.8897,oil_and_gas_plant,Malaysia
+1341,Fairgrounds power station,Union Electric Co - (MO),38.5935,-92.2206,oil_and_gas_plant,United States
+1342,Perryman power station,Constellation Power Source Generation LLC,39.442836,-76.221761,oil_and_gas_plant,United States
+1343,Front Range power plant,City of Colorado Springs - (CO),38.6281,-104.7069,oil_and_gas_plant,United States
+1344,Naco Nogales power station,Naturgy México SA de CV,31.222222,-109.608056,oil_and_gas_plant,Mexico
+1345,Jeeralang power station,EnergyAustralia Ecogen Pty Ltd,-38.2750275,146.4232982,oil_and_gas_plant,Australia
+1346,Antonio Nicolás Briceño power station,Corporación Eléctrica Nacional (Venezuela) SA,9.783648,-71.077218,oil_and_gas_plant,
+1347,Beijing Energy Sun Palace Gas Thermal power station,Beijing Taiyanggong Gas Thermal Power Co Ltd,39.978557,116.438761,oil_and_gas_plant,China
+1348,Gulf NPM power station,Gulf MP Co Ltd,14.36647,100.836403,oil_and_gas_plant,Thailand
+1349,CPIH Chongzuo Distributed Gas power station,China Power International Development Co Ltd,22.406471,107.433517,oil_and_gas_plant,China
+1350,International Paper Savannah Mill,International Paper Co,32.100354,-81.12425,oil_and_gas_plant,United States
+1351,Los Mina power station,AES Dominicana,18.499396,-69.868562,oil_and_gas_plant,Dominican Republic
+1352,DeCordova Steam Electric Station,DeCordova Power Co LLC,32.403056,-97.70056,oil_and_gas_plant,United States
+1353,Baja California III power station,Mexico Infrastructure Partners SAPI de CV,31.992311,-116.854077,oil_and_gas_plant,Mexico
+1354,Francisco Villa power station,Comisión Federal de Electricidad EPE,28.168202,-105.441828,oil_and_gas_plant,Mexico
+1355,Toyama Thermal power station,Hokuriku Electric Power Co,36.7629913621942,137.127059628158,oil_and_gas_plant,Japan
+1356,Zubair Field power station,Eni Iraq,30.4056537,47.5891061,oil_and_gas_plant,Iraq
+1357,Mintaro GT power station,Synergen Power Pty Ltd,-33.9032,138.7382,oil_and_gas_plant,Australia
+1358,Timbúes power station,AES Argentina Generación SA,-32.577915,-60.790519,oil_and_gas_plant,Argentina
+1359,Atherinolakkos power station,Public Power Corporation SA,35.00265,26.13852,oil_and_gas_plant,Greece
+1360,Aksa Antalya power station,Aksa Enerji Uretim AŞ,37.1203,30.6016,oil_and_gas_plant,
+1361,Deerhaven Generating Station,Gainesville Regional Utilities,29.7592,-82.3878,oil_and_gas_plant,United States
+1362,Kardia power station,Public Power Corporation SA,40.410625,21.786145,oil_and_gas_plant,Greece
+1363,San Pedro power station (Argentina),SPI Energy SA,-33.777779,-59.728923,oil_and_gas_plant,Argentina
+1364,Waiau power station,Hawaiian Electric Co Inc,21.388997,-157.961518,oil_and_gas_plant,United States
+1365,Mountainview generating station,Southern California Edison Co,34.0818,-117.2418,oil_and_gas_plant,United States
+1366,Jebel Ali M Power and Desalination Station,Dubai Electricity and Water Authority PJSC,25.046427,55.105557,oil_and_gas_plant,United Arab Emirates
+1367,Huizhou Cogen power station,China Shenhua Energy Co Ltd Huizhou Thermal Power Branch,22.75307,114.62675,oil_and_gas_plant,
+1368,Tiger I power station,Excelerate Energy LP,40.4733187598778,19.4453763677946,oil_and_gas_plant,
+1369,Surkhandarya power station,Nebras Power QPSC,37.3767864107491,67.2520938378001,oil_and_gas_plant,Uzbekistan
+1370,Koudiet Eddraouch power plant,Shariket Karhaba Koudiet Eddraouch SpA,36.885,8.0778,oil_and_gas_plant,Algeria
+1371,Kabeli B1 hydroelectric plant,IME Bank,27.2801,87.8097,hydro_power_low,Nepal
+1372,Rehab power plant,Central Electricity Generating Company (CEGCO),32.3311,36.0506,oil_and_gas_plant,Jordan
+1373,Jafurah Cogeneration power plant,Saudi Arabian Oil Co,24.507914,45.885537,oil_and_gas_plant,Saudi Arabia
+1374,Santa Cruz Rolugi power station,Rolugi Geração de Energia Eletrica Ltda,-21.723886,-41.397026,oil_and_gas_plant,Brazil
+1375,Robins power station,Georgia Power Co,32.5792,-83.5822,oil_and_gas_plant,United States
+1376,SPIC Lisha Island Gas power station,Dongguan Zhongdian Jiufeng New Energy Thermal Power Co Ltd,22.956527,113.575401,oil_and_gas_plant,China
+1377,Karpowership (Lebanon) Orhan Bey power station,Karpowership,33.649812,35.402103,oil_and_gas_plant,
+1378,Xiamen Dongbu Gas power station,East Asia Power (Xiamen) Co Ltd,24.54591,118.226434,oil_and_gas_plant,China
+1379,Astara power station,AzerEnerji JSC,38.4669800656052,48.864585389342,oil_and_gas_plant,Azerbaijan
+1380,Ribatejo power station,Energias de Portugal SA,39.0118,-8.9521,oil_and_gas_plant,Portugal
+1381,Latakia power station,Public Establishment of Electricity Generation,35.532672,35.799198,oil_and_gas_plant,Syrian Arab Republic
+1382,Lincoln Combustion power station,Duke Energy Carolinas LLC,35.4317,-81.0347,oil_and_gas_plant,United States
+1383,Jebel Ali G Power and Desalination Station,Dubai Electricity and Water Authority PJSC,25.0553,55.1151,oil_and_gas_plant,United Arab Emirates
+1384,Lee & Man Paper power station,Guangdong Lee & Man Paper Manufacturing Ltd,22.938,113.5898,oil_and_gas_plant,China
+1385,Hudson power station,Hudson Power Station Ltd,11.8870840383738,8.73224250788874,oil_and_gas_plant,Nigeria
+1386,Rades II power station,Marubeni Corp,36.799,10.2865,oil_and_gas_plant,Tunisia
+1387,Lavrio power station,Public Power Corporation SA,37.7463,24.0666,oil_and_gas_plant,Greece
+1388,Energy Legacy power station,Energy Legacy International Technologies of Mexico S de RL de CV,31.320967,-109.554938,oil_and_gas_plant,Mexico
+1389,Antonio Guiteras Thermoelectric Power Plant (CTE),Unión Eléctrica de Cuba,23.102632,-81.529444,oil_and_gas_plant,Cuba
+1390,Limbé power station,Ministry of Water and Energy (Cameroon),4.008072,9.123855,oil_and_gas_plant,Cameroon
+1391,Anambra power station,Anambra Gas Fired IPP Co Ltd,6.12984133123863,6.8011584231591,oil_and_gas_plant,Nigeria
+1392,Shedgum cogeneration Gas power plant,Tihama Power Generation Co Ltd,25.6515606,49.3854875,oil_and_gas_plant,Saudi Arabia
+1393,Colorado Bend II power station,Exelon Power Corp,29.289415,-96.0654,oil_and_gas_plant,United States
+1394,Hawk Road Facility power station,Oglethorpe Power Corp,33.358472,-84.99139,oil_and_gas_plant,United States
+1395,Pinecrest energy center,Coronado Power Ventures LLC,31.360942,-94.69452,oil_and_gas_plant,United States
+1396,Possum Point power station,Virginia Electric and Power Co,38.5367,-77.2806,oil_and_gas_plant,
+1397,Las Palmas power station,Inkia Energy,14.262131,-90.799063,oil_and_gas_plant,Guatemala
+1398,Cape Lambert power station,Rio Tinto Australia Pty Ltd,-20.6488,117.1407,oil_and_gas_plant,Australia
+1399,Khan Khawar hydroelectric plant,China Three Gorges CORP (CTG),34.9028,72.8075,hydro_power_low,Pakistan
+1400,El-Atf power plant,Middle Delta Electricity Production Co,31.1851,30.5291,oil_and_gas_plant,Egypt
+1401,Victoria power station,Rockland Capital,28.7883,-97.01,oil_and_gas_plant,United States
+1402,Palua Indah power station,Worldwide Holdings Bhd,2.9402188,101.2621084,oil_and_gas_plant,
+1403,Bukhara Teploenergo 3 power station,Teploenergo,39.743978,64.411911,oil_and_gas_plant,Uzbekistan
+1404,Allen Fossil Plant,Tennessee Valley Authority,35.074087,-90.14868,oil_and_gas_plant,United States
+1405,CR Huoshan Distributed Gas power station,China Resources Power (Huoshan) Co Ltd,31.402446,116.36308,oil_and_gas_plant,China
+1406,Sriracha Thai Oil Company power station,TOP SPP Co Ltd,13.1673169,100.9071881,oil_and_gas_plant,
+1407,Besmaya power station,Mass Energy Group Holding,33.166744,44.662947,oil_and_gas_plant,Iraq
+1408,Madison power station,Duke Energy Indiana LLC,39.4522,-84.4647,oil_and_gas_plant,United States
+1409,Ilijan power station,South Premiere Power Corp,13.622,121.0795,oil_and_gas_plant,Philippines
+1410,Sakai Port power station,Kansai Electric Power Co,34.570279,135.441867,oil_and_gas_plant,Japan
+1411,Gibson City energy center,Earthrise Energy PBC,40.4705,-88.3987,oil_and_gas_plant,United States
+1412,Keramasan Asta power station,PT Asta Keramasan Energi,-3.0302613,104.7419807,oil_and_gas_plant,Indonesia
+1413,Aras Free power station,Mani International Group (MIG),38.930239,45.6326299,oil_and_gas_plant,"Iran, Islamic Republic of"
+1414,Governador Marcelo Deda power station,Centrais Elétricas de Sergipe SA,-10.814366,-36.939657,oil_and_gas_plant,Brazil
+1415,Gwangyang power station,SK E&S Co Ltd,34.8895,127.7747,oil_and_gas_plant,
+1416,Chanute 2 power station,City of Chanute,37.6953,-95.4586,oil_and_gas_plant,United States
+1417,Middle Modi hydroelectric plant,Nepal Jalabidhyut Parbardan tatha Bikas LTD,27.4841,83.276,hydro_power_low,Nepal
+1418,Sterlington power station,Entergy Louisiana LLC,32.7047,-92.0792,oil_and_gas_plant,United States
+1419,Sultana del Este power station,Empresa Generadora de Electricidad Haina SA,18.44793,-69.313378,oil_and_gas_plant,Dominican Republic
+1420,Azito power plant,Azito Energie SA,5.30155,-4.0763,oil_and_gas_plant,
+1421,Pointe des Carrières power station,Electricité de France SA,14.59731,-61.05799,oil_and_gas_plant,France
+1422,Gopalganj power station,Energypac Power Generation,23.0301066274104,89.8212560350092,oil_and_gas_plant,Bangladesh
+1423,Ichthys LNG power station,INPEX Corp,-12.513898,130.918349,oil_and_gas_plant,Australia
+1424,Dadri Combined Cycle power plant,NTPC Ltd,28.5932,77.6101,oil_and_gas_plant,India
+1425,Meramec Power Plant,Ameren Missouri,38.4017,-90.3358,oil_and_gas_plant,United States
+1426,El Tarifawi power plant,Public Establishment of Electricity Generation,36.178912,37.155422,oil_and_gas_plant,Syrian Arab Republic
+1427,Ras Abu Fontas power plant,Qatar Electricity and Water Company QPSC,25.198212,51.617611,oil_and_gas_plant,Qatar
+1428,Mediterranean Sea Floating power station,Egyptian Electricity Holding Company,31.335,30.190111,oil_and_gas_plant,
+1429,Gaslub power station,Petróleo Brasileiro SA,-22.645356,-42.860825,oil_and_gas_plant,Brazil
+1430,Geregu II power station,Geregu Generation Co Ltd,7.471578,6.66025,oil_and_gas_plant,Nigeria
+1431,Robert Reid Power Plant,Big Rivers Electric Corp,37.6461,-87.5019,oil_and_gas_plant,United States
+1432,Negishi Refinery power station,ENEOS Corp,35.4151827246748,139.637548804238,oil_and_gas_plant,Japan
+1433,Termogas Machala 1 power station,Corporación Nacional de Electricidad EP,-3.116985,-79.879169,oil_and_gas_plant,Ecuador
+1434,Incheon Airport CHP power station,Incheon Airport Energy Co Ltd,37.4944136158685,126.475520074172,oil_and_gas_plant,
+1435,Augusta Refinery power station,Sasol Italy,37.22038,15.17781,oil_and_gas_plant,Italy
+1436,Altamira V power station,Mexico Infrastructure Partners SAPI de CV,22.499742,-97.905487,oil_and_gas_plant,Mexico
+1437,Khimti I hydroelectric plant,Butwal Power CO LTD,27.4744,86.1011,hydro_power_low,Nepal
+1438,Sumgayit power station,AzerEnerji JSC,40.603363,49.633417,oil_and_gas_plant,Azerbaijan
+1439,Armstrong Gas power station,Armstrong Power LLC,40.638021,-79.35173,oil_and_gas_plant,United States
+1440,Fayette energy facility,Fayette Power Co LLC,39.8592,-79.9182,oil_and_gas_plant,United States
+1441,Wheatland generating facility,Duke Energy Indiana LLC,38.6716,-87.2931,oil_and_gas_plant,United States
+1442,Hutchinson Energy Center,Evergy Kansas Central Inc,38.0906,-97.874722,oil_and_gas_plant,United States
+1443,Bellefontaine power station,Electricité de France SA,14.669495,-61.154613,oil_and_gas_plant,France
+1444,Chabahar power station,Saba Power and Energy Group,25.328319,60.786341,oil_and_gas_plant,"Iran, Islamic Republic of"
+1445,Megalopoli power station,Public Power Corporation SA,37.417449,22.107892,oil_and_gas_plant,Greece
+1446,Kawas Combined Cycle power plant,NTPC Ltd,21.175,72.6879,oil_and_gas_plant,India
+1447,Mortlake power station,Origin Energy Ltd,-38.0630568,142.6657212,oil_and_gas_plant,Australia
+1448,Cogen Altamira power station,Cogeneración de Altamira SA,22.375297,-97.890932,oil_and_gas_plant,Mexico
+1449,Lee Steam Plant,Duke Energy Progress LLC,35.373611,-78.08944,oil_and_gas_plant,United States
+1450,Gunsan CC power station,Korea Western Power Co Ltd,35.9836,126.7307,oil_and_gas_plant,
+1451,Llanos Blancos power station,Prime Energia,-30.149815,-71.219205,oil_and_gas_plant,Chile
+1452,Sorek-2 cogeneration power station,OPC Energy Ltd,31.9435410791774,34.7329008865062,oil_and_gas_plant,Israel
+1453,Walton County power station,Walton County Power LLC,33.8148,-83.6954,oil_and_gas_plant,United States
+1454,General Electric Plastic power station,Alabama Power Co,32.310226,-86.52542,oil_and_gas_plant,United States
+1455,John S Rainey power station,Santee Cooper,34.347734,-82.774478,oil_and_gas_plant,United States
+1456,Gresik AKR Estate power station,PT AKR Corporindo Tbk,-7.089043,112.606961,oil_and_gas_plant,Indonesia
+1457,Cedar Bayou power station,NRG Texas Power LLC,29.75,-94.9256,oil_and_gas_plant,United States
+1458,Guodian Zhongshan Minzhong Gas Thermal power station,Guodian Zhongshan Gas Power Generation Co Ltd Minzhong Thermal Power Plant,22.67285,113.496632,oil_and_gas_plant,China
+1459,Shin Pyeongtaek power station,Shin Pyongtaek Power Co Ltd,37.0038433697458,126.794635234685,oil_and_gas_plant,
+1460,Acadia energy center,Entergy Corp,30.428611,-92.41306,oil_and_gas_plant,United States
+1461,One Asia Quang Tri power station,One Asia Development Thailand,19.7442465421675,105.695483118848,oil_and_gas_plant,Viet Nam
+1462,Syrdarya II power station,Nebras Power QPSC,40.242115,69.10543,oil_and_gas_plant,Uzbekistan
+1463,Wuxi West Zone Gas Thermal power station,Wuxi Western Gas Thermoelectric Co Ltd,31.634457,120.232722,oil_and_gas_plant,China
+1464,Sai Regency Power power plant,KSK Energy Ventures Ltd,9.3627029974617,78.8932658834333,oil_and_gas_plant,India
+1465,Los Esteros Critical energy center,Los Esteros Critical Energy Facility LLC,37.425,-121.9319,oil_and_gas_plant,United States
+1466,Sohar power plant,Sohar Power Company SAOG,24.472185,56.633203,oil_and_gas_plant,
+1467,Darling Downs power station,Origin Energy Ltd,-27.1169,150.8942,oil_and_gas_plant,Australia
+1468,South Hedland power station,TransAlta Corp,-20.4279966,118.5481111,oil_and_gas_plant,Australia
+1469,GACL Dahej Caustic Captive power plant,GACL-NALCO Alkalies and Chemicals Private Limited (GNAL),21.7097501,72.6904024,oil_and_gas_plant,India
+1470,Batangas (Millenium) power station,Panasia Energy Inc,13.628766,121.082334,oil_and_gas_plant,Philippines
+1471,Muara Tawar power station,PT Pembangkitan Jawa Bali,-6.0867,106.9987,oil_and_gas_plant,Indonesia
+1472,Thika Power Plant,Thika Power Ltd,-1.05997318300946,37.0502330692313,oil_and_gas_plant,Kenya
